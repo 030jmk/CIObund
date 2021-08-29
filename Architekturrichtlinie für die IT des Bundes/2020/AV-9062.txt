@@ -1,0 +1,33 @@
+Bezeichner:
+NVPF-10
+
+Titel:
+Nutzung des G2X-Kommunikations-Dienst (bzgl. IT-Lösung De-Mail-Gateway)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9062
+
+Revision:
+01
+
+Beschreibung:
+Der G2X-Kommunikations-Dienst soll gemäß Architekturvorgabe DAAV01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung
+Die hier benannte Nutzungsverpflichtung bezieht sich auf die spezifische IT-Lösung De-Mail-Gateway zum Empfang und Versand von De-Mails über ein zentrales Gateway des Diensteanbieters (DMDA) zu den einzelnen Bundesbehörden.
+
+Begründung:
+Die Umsetzung eines De-Mail-Zugangs ist für alle Behörden des Bundes durch das E-Government Gesetz verbindlich vorgegeben. Die Nutzung des zentralen De-Mail-Gateway-Dienstes vereinfacht diese Umsetzung ggf. für die einzelnen Behörden
+
+Abhängigkeiten:
+Der zentrale De-Mail-Gateway-Dienst wird über ein sicheres Verwaltungsnetz bereitgestellt.
+Es bestehen Schnittstellen und Beziehunge.
+ zum Digitalen Zwischenarchiv des Bundes (NVPF-05) und
+ zur E-Akte (NVPF-01).
+
+Implikationen:
+Für jede Bundesbehörde ist die Einrichtung eines Catch-All-Postfachs und ggf. eine Anpassung des Nutzer-E-Mail-Systems erforderlich.
+Jede Behörde verfügt über ein sogenanntes Catch-All-Postfach, das unter einer De-Mail Adresse auf dem Gateway erreichbar ist und in dem alle DeMails der Behörde gesammelt werden.
+Der Anwendungsbereich umfasst alle Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung mit Bezug zu De-Mai.
+Diese IT-Lösung befindet sich im produktiven Einsatz.

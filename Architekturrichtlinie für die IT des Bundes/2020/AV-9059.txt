@@ -1,0 +1,34 @@
+Bezeichner:
+NVPF-07
+
+Titel:
+Nutzung des Cloud-Betriebsplattform-Dienstes und des Cloud-Entwicklungsplattform-Dienstes (IT-Lösung Bundescloud)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9059
+
+Revision:
+01
+
+Beschreibung:
+Der Cloud-Betriebsplattform-Dienst und der Cloud-Entwicklungsplattform-Dienst sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+Cloud-Angebote der Bundescloud sind primär zu nutzen. Anderweitige Cloud-Angebote sind nur unter den im IT-Rat Beschluss Nr. 2015/5 genannten Rahmenbedingungen zulässig.
+Neue Anwendungen sollen den Betrieb in der Bundescloud (PaaSUmgebung) berücksichtigen. Dafür werden Empfehlungen zu Standards, Verfahren und Methoden sowie Entscheidungshilfen für die Bereitstellung in der Bundescloud zur Verfügung gestellt.
+
+Begründung:
+Durch den Aufbau einer Bundescloud soll der IT-Betrieb konsolidiert und zukunftsfähig aufgestellt werden. Somit soll der Betrieb von vielen einzelnen Plattformen in den unmittelbaren Bundesbehörden entfallen können.
+Die zentral in der Bundescloud bereitgestellte PaaS-Umgebung soll zudem die Entwicklung von neuen Anwendungen standardisieren, beschleunigen und dadurch auch maßgeblich die Dienstekonsolidierung unterstützen
+Mit der zentralen Verwaltung und Bereitstellung der Bundescloud reagiert der Bund außerdem auf die technologische Entwicklung im ITSektor.
+
+Abhängigkeiten:
+Die Bundescloud hat als zentrale Instanz umfassende Abhängigkeiten zu allen Diensten. Dafür sind auch umfassend funktionale und nichtfunktionale Anforderungen in Konzepten auszuformulieren. Eine Detaillierung erfolgt gesondert im Rahmen der IT-Maßnahme Bundescloud. Außerdem konkretisiert diese Vorgabe die Richtlinie TIAV01. Weiterhin werden Sicherheitsaspekte für den Umgang mit CloudAngeboten in ISAV-08 konkretisiert.
+
+Implikationen:
+Im Rahmen des Projektes „IT-Konsolidierung Bund“ wird die Übernahme von IT-Leistungen für die Fach-IT durch die Bundescloud unter Beachtung wirtschaftlicher Aspekte langfristig angestrebt. Sollte ein Fachverfahren derzeit nicht in virtuellen Umgebungen lauffähig sein, z. B. aufgrund von spezieller Hardwareabhängigkeit, ist seine Migration oder Anpassung durch die Behörde zu prüfen und anzustreben.
+Um die Bundescloud nutzen zu können ist ein sicherer Verwaltungsnetzanschluss erforderlich. Behörden ohne sicheren Verwaltungsnetzanschluss können die Bundescloud nicht nutzen und müssen bei Bedarf zunächst eine sichere Verwaltungsnetzanbindung realisieren können.
+Die Bundescloud bietet eine einheitliche, skalierbare Plattform für die Dienste der konsolidierten IT des Bundes als Infrastructure (IaaS), Platform (PaaS) und Software as a Service (SaaS). Sie ist eine Private Cloud und wird in den Rechenzentren des Bundes von den IT-Dienstleistern betrieben. Die Cloud-Angebote werden in verschiedenen Kritikalitätsstufen angeboten. Diese erfüllen jeweils zusammengefasst bestimmte Anforderungen an Sicherheit, Verfügbarkeit und Datenschutz und Geheimschutz orientierend am Schutzbedarf der nutzenden Bundesbehörden. Die Abrechnung erfolgt nach dem tatsächlichen Nutzen (verbrauchsorientierte Abrechnung).
+Der Anwendungsbereich umfasst alle Dienste der konsolidierten IT des Bundes.
+Die Bundescloud befindet sich in der Weiterentwicklung mit dem Angebot weiterer Cloud-Angebote.

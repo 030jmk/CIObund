@@ -1,0 +1,28 @@
+Bezeichner:
+ISAV-01
+
+Titel:
+Erstellung und Umsetzung von Sicherheitskonzeptionen für alle IT-Verfahren
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9044
+
+Revision:
+01
+
+Beschreibung:
+Für alle betriebenen IT-Verfahren muss vor der Inbetriebnahme ein gültiges IT-Sicherheitskonzept gemäß BSI-Standards für IT-Grundschutz in der jeweils gültigen Fassung vorliegen, umgesetzt und dokumentiert sein. Das IT-Sicherheitskonzept muss regelmäßig durch Revisionen bzw. Audits auf Wirksamkeit, Angemessenheit und Aktualität der eingesetzten Maßnahmen hin überprüft werden.
+Der Übergang von den BSI-Standards 100-1 bis 100-3 auf die neuen BSIStandards muss gewährleistet werden. Bei Anwendung des modernisierten Grundschutzes muss die Standard-Absicherung als Mindestanforderung angewendet werden.
+
+Begründung:
+Integraler Bestandteil der Sicherheitskonzeption im Sinne des ISM.
+
+Abhängigkeiten:
+Basierend auf einer gegebenenfalls durchzuführenden Risikoanalyse ergeben sich die für die Informationssicherheit auszuwählenden, wirksam umzusetzenden und zu dokumentierenden Maßnahmen.
+Durch Mindeststandards nach § 8 BSIG können sich erweiterte Mindestanforderungen ergeben, die zu beachten sind.
+
+Implikationen:
+Ein IT-Sicherheitskonzept unterstützt das Compliance-Management von IT-Verfahren.

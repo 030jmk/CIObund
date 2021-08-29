@@ -1,0 +1,26 @@
+Bezeichner:
+ISAV-03
+
+Titel:
+"Security by Design" im Lebenszyklus von IT-Verfahren und Produkten
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9046
+
+Revision:
+01
+
+Beschreibung:
+Alle IT-Verfahren der Bundesverwaltung sollen robust und resilient gestaltet werden.
+
+Begründung:
+„Security by Design“ ist das zentrale Element einer ganzheitlichen Sicherheitskonzeption, um über alle Lebenszyklen eines IT-Verfahrens die passenden Informationssicherheitsanforderungen zu berücksichtigen.
+
+Abhängigkeiten:
+Bei der Umsetzung von "Security by Design" sind insbesondere die Grundsätze der sicheren Software-Entwicklung und Programmierung zu beachten (s. IT-Grundschutz-Bausteine CON.5 und CON.8) sowie die allgemeine Literatur zu "Secure Coding"), ergänzt durch die Technische Richtlinie 03107-1 des BSI (Elektronische Identitäten und Vertrauensdienste im E-Government).
+
+Implikationen:
+Aspekte der Informationssicherheit sind bereits beim Entwurf von IT-Verfahren zu berücksichtigen. U. a. sind die Implikationen aus dem Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.1 zu beachten.

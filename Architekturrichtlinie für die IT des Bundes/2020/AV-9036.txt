@@ -1,0 +1,40 @@
+Bezeichner:
+TNAV-01
+
+Titel:
+Nutzung von zentral bereitgestellten Kommunikationsverbindungen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9036
+
+Revision:
+02
+
+Beschreibung:
+Nutzerinnen und Nutzer sollen die von NdB zentral bereitgestellten und gesicherten Kommunikationsverbindungen und Netzübergänge zu Fremdnetzen verwenden, sodass keine anderen (lokalen) Netzanschlüsse erforderlich werden.
+Folgende Kommunikationsverbindungen werden durch NdB über die Anschlussarten NdBA1 bis A5 angeboten und sollen bei der Planung durch die jeweilige Behörde berücksichtigt werden:
+ Zugriff auf zentrale Fachverfahren im Intranet des Bundes, die durch das ITZBund als zentralem IT-Dienstleister des Bundes bereitgestellt werden
+ Zugriff auf Dienste und Fachverfahren in anderen ITVerwaltungsnetzen (NdB-VN, TestaNG usw.)
+ Bereitstellung von verschlüsselten LAN-Kopplungen zu weiteren
+Liegenschaften von Nutzerinnen und Nutzern (unter
+Berücksichtigung der Dienstesegmentierung)
+ Bereitstellung eines zentral abgesicherten Internetanschlusses für den Zugriff auf das Internet
+ Bereitstellung von leistungsfähigen Internetzugängen für eigene Internetdienste
+ Zugriff auf zentrale Dienste (z. B. E-Mail, De-Mail, PKI, X500) und Fachverfahren im Intranet des Bundes
+ Einwahl über BSI zugelassene mobile Zugänge
+ Einwahl von verwaltungsexternem Personal für Fernwartungstätigkeiten (sofern eine zentrale Fernwartungsplattform verfügbar ist)
+Alternativ Zugriff auf das NdB-Extranet/Grundschutzzone mit Schutzbedarf "Normal" und ohne Zugriff auf Inhalte bzw. Verfahren, die VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind
+Wenn eine erforderliche Zugriffsmöglichkeit nicht über zentrale Netzübergänge bereitgestellt werden kann, wird diese unter Beachtung der Vorgaben des BSI dezentral durch den Betreiber des Nutzer-LAN bereitgestellt.
+
+Begründung:
+Die Bereitstellung/Nutzung der NdB-Kommunikationsverbindungen ist erforderlich, um ein einheitliches, hohes Sicherheitsniveau für die NdBAnschlüsse (NdBA1 bis A5) sicherzustellen. Dadurch wird die Verfügbarkeit/ Vertraulichkeit/ Integrität jeder einzelnen Nutzerin und jedes einzelnen Nutzers geschützt und ein sicherer NdB-interner Austausch von Informationen bis zum Geheimhaltungsgrad "VS-NUR FÜR DEN DIENSTGEBRAUCH" ermöglicht.
+
+Abhängigkeiten:
+Die entsprechenden Kommunikationsverbindungen und Netzanschlüsse werden an den Anforderungen der IT-Konsolidierung des Bundes ausgerichtet, sodass für die IT-Konsolidierung benötigte Bandbreiten und eine ausreichende Netzqualität (Quality of Service), d. h. eine Priorisierung von Verkehrsklassen, zur Verfügung stehen.
+
+Implikationen:
+Unter Berücksichtigung des Schutzbedarfes der verarbeiteten Informationen und der Netzwerkinfrastruktur soll eine entsprechende Segmentierung der lokalen Netze der Nutzerinnen und Nutzer realisiert werden. Für NdB-Anschlüsse (NdB VS-NfD) und/ oder NdB-Extranet/ Grundschutzzone sind die jeweiligen vom BSI veröffentlichten Nutzerpflichten sowie die VSA zu beachten.
+Unter Berücksichtigung der von NdB angebotenen Kommunikationsverbindungen soll eine für die jeweilige Behörde geeignete LAN-Architektur entwickelt werden, in der das NdB-Nutzernetz implementiert wird.

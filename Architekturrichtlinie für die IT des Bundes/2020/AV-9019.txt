@@ -1,0 +1,39 @@
+Bezeichner:
+DAAV-01
+
+Titel:
+Allgemeine Nutzungs- und Leistungsverpflichtung
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9019
+
+Revision:
+02
+
+Beschreibung:
+Die Dienste der Dienstekonsolidierung (DK) sollen genutzt werden. Zur Nutzung der Dienste ist im IT-Rahmenkonzept des Bundes bereits folgende Regelung enthalten:
+"Das IT-Rahmenkonzept des Bundes ist das für alle Ressorts verbindliche Planungsinstrument für ressortübergreifende Vorhaben. In der Ressortplanung können keine Haushaltsmittel für die parallele Entwicklung etatisiert werden, die bereits durch ressortübergreifende ITMaßnahmen im IT-Rahmenkonzept des Bundes abgedeckt sind. Für die Fortführung alternativer IT-Anwendungen dürfen Mittel nur veranschlagt werden, soweit dies wirtschaftlich ist. Im ITRahmenkonzept des Bundes werden also die ressortübergreifend zu nutzende Basis- und Querschnitts-IT sowie zentrale IT-Infrastrukturen festgelegt."
+Diese Regelung wird wie folgt weiter konkretisiert:
+ Die Dienste der DK sind durch IT-Maßnahmen des ITRahmenkonzeptes repräsentiert.
+ Die Wirtschaftlichkeit des Einsatzes eines Dienstes der DK für die Bundesverwaltung wird zentral durch die DK unter Beteiligung der Dienstleister nachgewiesen.
+ Die Nutzungsverpflichtung der Dienste der DK umfasst die gesamte unmittelbare Bundesverwaltung.
+ Der Nutzungsrahmen der Dienste der DK betrifft den jeweiligen Funktionsumfang im definierten Anwendungsbereich des Dienstes der DK gemäß den Dienstesteckbriefen im Anhang der Strategie Dienstekonsolidierung.
+ Die Verpflichtung zur Nutzung des Dienstes der DK tritt mit dem Zeitpunkt der Verfügbarkeit (Produktivsetzung) des Dienstes, ersichtlich aus dem Produktkatalog des Verbundes der ITDienstleister des Bundes, ein.
+ Mit der Eintragung eines Dienstes im Produktkatalog als produktiven Dienst besteht seitens der IT-Dienstleister eine Leistungsverpflichtung für die den Dienst realisierende IT-Lösung.
+Sowohl für produktive als auch für geplante Dienste der DK im definierten Funktionsumfang gemäß den Dienstesteckbriefen dürfen also abweichende Lösungen nicht mehr neu beschafft oder neu entwickelt werden.
+Bestehende abweichende Lösungen derselben Funktionalität sind mit dem nächsten grundlegenden Versionswechsel durch die entsprechenden Dienste der DK zu prüfen und ggf. abzulösen. Sofern seitens der Maßnahme der DK keine zentrale Migrationsstrategie abgestimmt wird, sind entsprechende Migrationsstrategien, insbesondere bestehend aus der Machbarkeitsprüfung, der Zielsetzung und der groben zeitlichen, finanziellen sowie organisatorischen Abschätzung der Migration, frühzeitig, spätestens zum Endes des zwölften Monats nach der Produktivsetzung der Dienste der DK zu prüfen und ggf. zu erstellen. Für bereits produktive Dienste der DK sind die Migrationsstrategien bis spätestens zum Ende des zwölften Monats nach Verabschiedung des erneuerten Produktkataloges 2018 zu erstellen.
+
+Begründung:
+Die Nutzung gemeinsamer Basis-, Querschnitts- und Infrastrukturdienste dient der Harmonisierung und Konsolidierung der IT des Bundes. Weiterhin dürfen bei Basis-, Querschnitts- und Infrastrukturdiensten maximal zwei parallele IT-Lösungen entstehen.
+
+Abhängigkeiten:
+Diese Architekturvorgabe hat übergreifende Bedeutung für alle Architekturvorgaben, die den funktionalen Umfang und Anwendungsbereich eines Dienstes der DK festlegen.
+
+Implikationen:
+Für alle Funktionen und Anwendungsbereiche, für die Basis-, Querschnitts- und Infrastrukturdienste der DK bereitgestellt werden, werden die evtl. vorhandenen eigenen Lösungen zukünftig abgelöst. Anwendungen und Dienste, die die entsprechenden Funktionen nutzen, werden entsprechend umgestellt. Der Rollout und die Umstellungen werden zwischen Behörde, DK und IT-Dienstleistern abgestimmt.
+Mit der Eintragung eines Dienstes im Produktkatalog als angekündigter Dienst führt die nutzende Behörde notwendige Vorbereitungsmaßnahmen mit Prüfung der späteren Nutzung anhand der eigenen Anforderungen und Bedarfe durch. Die Behörden entscheiden anhand der fachlich-rechtlichen Vorgaben über die ITtechnische Unterstützung (mit oder ohne IT). Insofern eine IT-technische Unterstützung erfolgen soll, sind die Vorgaben dieser Nutzungsverpflichtung für die Dienste der DK anzuwenden.
+Nutzende Behörden und IT-Dienstleister stimmen sich im Rahmen von Projekten und Aufträgen über die gegenseitige Nutzungs- und Leistungsverpflichtung ab.
+Für Behörden mit Bedarf zur Nutzung von geplanten oder angekündigten Diensten vor der Produktivsetzung werden durch die Maßnahmen der DK entsprechende Transitionspapiere (Zwischen-/Übergangslösung; vgl. Strategie Dienstekonsolidierung) bereitgestellt.

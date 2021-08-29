@@ -1,0 +1,33 @@
+Bezeichner:
+NVPF-02
+
+Titel:
+Nutzung des Gruppenorganisationsdienstes und des Informationskollaborationsdienstes (IT-Lösung Social Intranet des Bundes)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9054
+
+Revision:
+01
+
+Beschreibung:
+Der Gruppenorganisationsdienst und der Informationskollaborationsdienst sollen gemäß Architekturvorgabe DAAV-01 "Verbindliche Nutzung von Diensten" genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Die Verwendung der Dienste soll die behördenübergreifende informelle Zusammenarbeit erleichtern. Der Nutzen der Zusammenarbeitsfunktionen wird durch ein gemeinsames System verstärkt (Netzwerkeffekt).
+
+Abhängigkeiten:
+Die Dienste
+ sollen über Standardschnittstellen aktenrelevante Informationen in die E-Akte überführen (NVPF-01) und
+ sollen im Bundesclient lauffähig sein (NVPF-06).
+Mögliche weitere, sich ergebende Abhängigkeiten zu Diensten sind noch zu bewerten.
+Die Einbindung von Funktionalitäten in andere Dienste und Plattformen (z. B. Portale, eGesetzgebung) ist über Microservices und/oder iFramePortlets anvisiert. Eine Detaillierung erfolgt nach verbindlicher Festlegung der Schnittstellen/Integrationsstandards. Ebenfalls erfolgt eine Prüfung der Entkopplung von Diensten (DAAV-09) unter Berücksichtigung von angebotenen Plug-Ins.
+Die Dienste sind über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Für die behördenübergreifende Nutzung sind rechtliche, organisatorische und technische Regelungen, insbesondere zu Nutzung, Social Media Policy, Einführung und Nutzungsintegration, durch die jeweiligen Behörden zu treffen.
+Die informelle Kommunikation über diesen Dienst (Conferencing) ist auf Teilnehmer aus der Bundesverwaltung mit gemäß BSI-Vorgabe abgesicherter Infrastruktur beschränkt. Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können. Behörden haben organisatorisch den angebotenen Funktionsumfang der genutzten Bestandssysteme mit dem durch den Dienst Social Intranet des Bundes abzugleichen und entsprechende weitere Anforderungen im Kontext der informellen Zusammenarbeit an die Verantwortlichen zur Weiterentwicklung des Dienstes Social Intranet zu übermitteln. Dies gilt insbesondere für die Schnittmengen mit den eingesetzten Diensten der Bürokommunikation und Kollaboration.
+Der Anwendungsbereich des Dokumentenaustausches betrifft die gesamte Bundesverwaltung. Die Nutzung des Social Intranet ist auf Teilnehmerinnen und Teilnehmer aus der Bundesverwaltung beschränkt.

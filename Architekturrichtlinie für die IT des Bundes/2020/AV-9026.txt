@@ -1,0 +1,28 @@
+Bezeichner:
+DAAV-08
+
+Titel:
+Entwicklung neuer Anwendungen für den Bundesclient
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9026
+
+Revision:
+01
+
+Beschreibung:
+Neue Anwendungen sollen für die Nutzung über den Bundesclient konzipiert und realisiert werden. Die Beschaffung und Entwicklung von neuen Anwendungen orientiert sich an den durch die Maßnahme Bundesclient mit den Ressorts und Dienstleistern abgestimmten Empfehlungen zu Standards, Verfahren und Methoden für den Bundesclient. Für bestehende Lösungen und laufende Vorhaben, die den Bundesclient noch nicht berücksichtigen, ist die Möglichkeit einer Migrations- oder Ablösestrategie zu prüfen
+
+Begründung:
+Der Nutzen eines zentralen Clients ist davon abhängig, ob die an einem Arbeitsplatz erforderlichen Dienste über diesen Client genutzt werden können.
+
+Abhängigkeiten:
+Diese Architekturvorgabe konkretisiert die übergreifende Architekturvorgabe DAAV-01 und steht in direkter Abhängigkeit zur Architekturvorgabe NVPF-05.
+Es besteht eine starke Abhängigkeit zu allen Diensten in der Bundescloud, die in den Bundesclient integriert werden müssen oder aktive Programmteile auf dem Bundesclient benötigen.
+Weiterhin besteht eine Abhängigkeit zur Anwendungsvirtualisierung, damit Dienste vom Client entkoppelt werden können.
+
+Implikationen:
+Neue Anwendungen sollen unter Berücksichtigung der Nutzbarkeit über den Bundesclient konzipiert werden. 

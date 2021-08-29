@@ -1,0 +1,26 @@
+Bezeichner:
+TIAV-04
+
+Titel:
+Betrieb standardisierter Server und Laufzeitumgebungen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9033
+
+Revision:
+01
+
+Beschreibung:
+Um den Betrieb der Fachverfahren so einfach, wartbar, migrierbar und zukunftssicher wie möglich zu machen, sollen Server und  Laufzeitumgebungen gemäß Anhang „Technische Spezifikationen zur Architekturrichtlinie“ Kapitel 2.1.2 verwendet werden.
+
+Begründung:
+Durch die Konzentration auf standardisierte Funktionalitäten wird es möglich, Applikationen über unterschiedliche Serverlandschaften zu migrieren, zu konsolidieren und wirtschaftlicher zu betreiben.
+
+Abhängigkeiten:
+Diese Richtlinie bildet eine Grundlage für die Vorgabe TIAV-06.
+
+Implikationen:
+Keine Implikationen vorhanden. 

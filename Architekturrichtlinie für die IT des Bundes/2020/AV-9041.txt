@@ -1,0 +1,26 @@
+Bezeichner:
+IDAV-02
+
+Titel:
+Nutzung standardisierter Zeichensätze und -kodierungen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9041
+
+Revision:
+01
+
+Beschreibung:
+Es sollen standardisierte Zeichensätze und -kodierungen gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.3.1 verwendet werden
+
+Begründung:
+Der Einsatz von standardisierten Zeichensätzen und -kodierungen erleichtert die Kooperation der Bundesverwaltung, insbesondere bei der Erfassung von Namen zur korrekten Identifikation von Personen. Damit geht eine höhere Effektivität in der Aufgabenerfüllung der Behörden einher.
+
+Abhängigkeiten:
+Diese Vorgabe leistet einen wesentlichen Beitrag zur Umsetzung von ÜBAV-11, da ein standardisierter Zeichensatz und eine standardisierter Zeichenkodierung den verlustfreien Austausch von Textdaten zwischen Anwendungen stark vereinfachen.
+
+Implikationen:
+Keine Implikation vorhanden.

@@ -1,0 +1,35 @@
+Bezeichner:
+NVPF-01
+
+Titel:
+Nutzung des Akten- und Dokumentenverwaltungsdienstes (ITLösung E-Akte Bund)
+
+Verbindlichkeitsgrad:
+
+
+ID:
+AV-9053
+
+Revision:
+01
+
+Beschreibung:
+Der Akten- und Dokumentenverwaltungsdienst soll gemäß Architekturvorgabe DAAV-01 „Nutzungsverpflichtung“ genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung.
+
+Begründung:
+Gemäß § 6 EGovG sollen die Behörden des Bundes ihre Akten elektronisch führen. Durch die elektronische Aktenführung wird der behördenübergreifende einheitliche Umgang mit der Schriftgutverwaltung gefördert. Die elektronische Aktenführung bildet auch die Basis für die elektronische Verwaltungsarbeit der informellen Zusammenarbeit und Vorgangsbearbeitung (formell).
+
+Abhängigkeiten:
+Der Dienst
+ soll aktenrelevante Inhalte nach der Notwendigkeit der Bearbeitung in der E-Akte und die unmittelbare Übergabe von Inhalten zum Zwecke der Beweiswerterhaltung und/ oder Langzeitspeicherung zum Digitalen Zwischenarchiv des Bundes beinhalten (NVPF-05),
+ soll eine Schnittstelle zum Social Intranet des Bundes bereitstellen und aktenrelevante Dokumente übernehmen (NVPF-02) und
+ soll in die Bürokommunikationsumgebung des Bundesclients integriert sein (NVPF-07). Die Bewertung des zu wählenden Grades der Integration/ Entkopplung (DAAV-09) steht noch aus. Die Aufwände zur Integration sind bei der E-Akte zu berücksichtigen.
+Weitere sich ergebende Abhängigkeiten zu Diensten, insbesondere zu Workflow / Business Process Management Systemen, Kollaboration, Scanning und zur Anbindung von Fach- und Querschnittsdiensten (u. a. gemäß Referenzarchitektur elektronische Verwaltungsarbeit), sind noch zu bewerten. Die unterstützten Standards für die Schnittstellen wie z. B. CMIS, WebDAV, XDomea, XAIP, WebServices, SOA werden nach Abschluss der Beschaffung des Basisdienstes detailliert.
+Der Dienst ist über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Nach der Anlage „Zielvorgaben E-Akte“ vom Beschluss des Staatssekretärsausschusses Digitale Verwaltung 2020 vom 03. März 2015 hat jede Behörde bis Ende 2016 ein Konzept der behördenspezifischen Anforderungen für die elektronische Aktenführung zu erstellen. Bis Ende 2017 werden diese Anforderungen mit dem Dienst E-Akte abgeglichen.
+Bis Ende 2019 müssen die zur Einführung der E-Akte verpflichteten Behörden der Bundesverwaltung die organisatorischen und technischen Voraussetzungen für die Einführung der elektronischen Aktenführung schaffen. Der Aktionsplan E-Akte des Programmes „Digitale Verwaltung 2020“ bietet u. a. eine zentrale organisatorische Unterstützung.
+Bei Einführung der E-Akte sollte unter Beachtung von Wirtschaftlichkeitsaspekten, bestehende Altbestände, soweit diese elektronisch benötigt werden, digitalisiert und/oder aus bestehenden Dokumentenmanagement-Systemen migriert werden. Für die Integration des Dienstes E-Akte sind Aufwände vorzusehen. Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+Spätestens bis 2020 müssen sich alle Bundesbehörden in der Umsetzung der elektronischen Aktenführung befinden, sofern sie eine E-Akte einführen müssen.
+Die IT-Lösung E-Akte Bund als Standardsoftware ist in Pilotierung.

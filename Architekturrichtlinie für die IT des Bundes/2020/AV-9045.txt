@@ -1,0 +1,28 @@
+Bezeichner:
+ISAV-02
+
+Titel:
+Festlegung von Schutzbedarf und Dienstgüte (Verlässlichkeit) für IT-Verfahren und ihrer Ressourcen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9045
+
+Revision:
+01
+
+Beschreibung:
+Für jedes einzelne IT-Verfahren muss der Schutzbedarf sowie die Anforderungen an die Dienstgüte festgelegt und regelmäßig auf Aktualität überprüft werden.
+Dies gilt insbesondere für Server der Cloud-Infrastrukturen des ITLV, auf denen mehrere IT-Verfahren (ggf. unterschiedlicher Nutzer) betrieben werden.
+
+Begründung:
+Die Festlegung von Schutzbedarf und Dienstgüte ist erforderlich für die Steuerung der Leistungsumsetzung innerhalb des Leistungsverbunds.
+
+Abhängigkeiten:
+Es existieren übergreifende Regelungen, die es zu beachten gilt; insbesondere UP Bund und IT-Grundschutz in der jeweils gültigen Fassung.
+
+Implikationen:
+Die Festlegung von Schutzbedarf und Dienstgüte haben weitreichende Konsequenzen bei der Ausgestaltung von IT-Verfahren.
+Einheitliche Schutzbedarfskategorien und Vorgaben zu deren Ermittlung können dem GGB-Kapitel "Informationssicherheitsmanagement" entnommen werden.

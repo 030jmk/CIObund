@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-15
+
+Titel:
+Sicherstellung von Wiederverwendung
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9014
+
+Revision:
+01
+
+Beschreibung:
+Bei der Neu- und Weiterentwicklung von IT-Lösungen und -Diensten soll die Wiederverwendung von Komponenten/Modulen anderer ITLösungen und Dienste geprüft werden. Geeignete Komponenten/Module sollen als Bestandteil der zu entwickelnden Lösung integriert werden. Bei der Abgrenzung des Funktionsumfangs und der qualitativen Eigenschaften von Komponenten/Modulen soll speziell deren  Wiederverwendbarkeit im Kontext mehrerer Lösungen berücksichtigt und gewährleistet werden.
+
+Begründung:
+Die systematische Wiederverwendung von (Teil-)Lösungen in einer ITLandschaft vermeidet unnötige Redundanzen und konzeptionell unterschiedliche Lösungen derselben Problemstellung und trägt damit wesentlich zur Reduzierung des Aufwands und der Kosten für die Entwicklung, die Wartung und den Betrieb von Lösungen bei. Durch spezifische Maßgaben hinsichtlich des Designs von (Teil-)Lösungen kann die Wiederverwendbarkeit optimiert werden (Design for Reuse).
+
+Abhängigkeiten:
+Es bestehen Abhängigkeiten zu ÜBAV-11, ÜBAV-12 und NVPF-02. Diese Vorgaben bilden die Grundlage für die Sicherstellung von Wiederverwendung. Weiterhin wird die Vorgabe ÜBAV-14 konkretisiert.
+
+Implikationen:
+Die Verpflichtung zur Wiederverwendung und das in diesem Zusammenhang anzuwendende Vorgehen werden in den Entwicklungsrichtlinien für Anwendungen und Dienste verankert. Die Wiederverwendung und Wiederverwendbarkeit von Komponenten/Modulen wird bei Neu- und Weiterentwicklungen im Rahmen übergreifender Architekturgremien geprüft.

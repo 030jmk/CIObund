@@ -1,0 +1,29 @@
+Bezeichner:
+ÜBAV-11
+
+Titel:
+Gewährleistung der Interoperabilität von IT-Lösungen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9010
+
+Revision:
+01
+
+Beschreibung:
+Bei der Neu- und Weiterentwicklung von IT-Lösungen sollen Interoperabilitätsstandards angewendet werden. Dies umfasst neben Anwendungen insbesondere auch Schnittstellen, Daten und Netze. Hierfür sollen u. a. geeignete Austauschformate (z. B. XML, XÖVStandards) und relevante semantische Standards gem. Anhang "Technische Spezifikationen zur Architekturrichtlinie" angewendet werden. Für IT-Lösungen, die europaweit eingesetzt werden können, muss weiterhin das European Interoperability Framework (EIF) berücksichtigt werden. Im Bereich der NATO muss die Allied Data Publication 34 (ADatP-34), "NATO Interoperability Standards and Profiles (NISP)", STANAG 5524 berücksichtigt werden.
+
+Begründung:
+Ein maßgeblicher Faktor bei der Neu- und Weiterentwicklung sowie der Beschaffung von IT-Lösungen ist die Interoperabilität.
+Interoperabilität erleichtert den Datenaustausch zwischen den ITLösungen, ermöglicht eine einfache Integration unterschiedlicher Anwendungen und Technologien über Daten und Schnittstellen und hilft spezifische Anforderungen an verbindende Netze abzuleiten (u. a. hinsichtlich der Bandbreiten, Protokolle, Paketgrößen und Laufzeiten).
+Interoperabilität hilft dabei, die grenz- und sektorübergreifende Interaktion zwischen europäischen Verwaltungen zu erleichtern und zu fördern. Ähnliches gilt für die Zusammenarbeit mit anderen Kooperationspartnern.
+Eine wesentliche IT-architektonische Voraussetzung hierfür ist die konsequente Ausrichtung an Standards, einheitlichen Methodiken zur Auswahl und Entwicklung von IT-Lösungen sowie eine transparente Dokumentation der IT-Anwendungslandschaft. Neben den bekannten Vorteilen der Nutzung von Standards (u. a. Austauschbarkeit, Flexibilität, erhöhte Kompatibilität) ermöglicht die Nutzung von Interoperabilitätsstandards auch die Zusicherung mehrerer Hersteller hinsichtlich Produktunterstützung und fördert das Zusammenspiel und die Integration zu anderen Anwendungen und Technologien. Weitere Vorteile, die durch Einhaltung dieser Vorgabe entstehen, sind die Vermeidung von Medienbrüchen und die Ermöglichung von "Best-of-Breed"-Architekturen im Gegensatz zu den Lock-in-Effekt begünstigenden, monolithischen Architekturen.
+
+Abhängigkeiten:
+Die Architekturvorgabe ergänzt und erweitert ÜBAV-04. Weiterhin steht sie in direktem Bezug zur Vorgabe ÜBAV-09, ÜBAV-13 und ÜBAV-15, da diese Vorgaben ebenfalls die Interoperabilität fördern. Diese Vorgabe wird weiterhin durch folgende spezifische Vorgaben ergänzt: GSAV-04, IDAV01 und TIAV-06
+
+Implikationen:
+Die Bereitstellung von Anwendungen durch unterschiedliche ITDienstleister und in unterschiedlichen Sicherheitsdomänen erfordert zur Sicherstellung der Interoperabilität erweiterte Regelungen zur Harmonisierung und Standardisierung der IT-Lösungsbereitstellung. Diese Regelungen sind auf strategischer, prozessualer und technischer Ebene zwischen den IT-Dienstleistern des Leistungsverbunds abzustimmen und umzusetzen, sodass für die Ressorts und nachgeordneten Behörden ein einheitlicher und nahtloser Zugang zu den Diensten in unterschiedlichen Sicherheitsdomänen des Leistungsverbunds gewährleistet ist und Dienste in unterschiedlichen Sicherheitsdomänen interoperabel erbracht werden können. Die Regelungen sollen insbesondere auch einen Wechsel des Dienstleisters durch die Ressorts technisch ermöglichen. Dies erfordert beispielsweise eine Vereinheitlichung und Verankerung in den Methoden zur Auswahl und Entwicklung von IT-Lösungen, eine transparente Dokumentation der IT-Anwendungslandschaft sowie die Etablierung eines übergreifenden Schnittstellenmanagements, wie in NVPF-02 gefordert. Dies soll bereits in der Entwicklungsphase sichergestellt werden.

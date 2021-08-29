@@ -1,0 +1,26 @@
+Bezeichner:
+IDAV-03
+
+Titel:
+Nutzung einheitlicher Standards zur Beschreibung der Metadaten
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9042
+
+Revision:
+01
+
+Beschreibung:
+Zur Beschreibung von Metadaten sollen einheitliche Standards gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.3.2 verwendet werden.
+
+Begründung:
+Die einheitliche Abbildung von Metadaten in verschiedenen Kontexten erleichtert die automatisierte Zuordnung und Auswertung von Metadaten.
+
+Abhängigkeiten:
+Keine Abhängigkeiten vorhanden.
+
+Implikationen:
+Keine Implikationen vorhanden.

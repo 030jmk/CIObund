@@ -1,0 +1,28 @@
+Bezeichner:
+GSAV-01
+
+Titel:
+Beachtung des Praxisleitfadens "Projektmanagement für die öffentliche Verwaltung"
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9015
+
+Revision:
+01
+
+Beschreibung:
+Zur Einführung von IT-Systemen und Durchführung von ITMaßnahmen soll der Praxisleitfaden „Projektmanagement für die öffentliche Verwaltung“ beachtet werden
+Bei der Durchführung von Organisationsprojekten soll zudem das Handbuch für Organisationsuntersuchungen und Personalbedarfsermittlung (kurz: Organisationshandbuch) berücksichtigt werden.
+Andere Projektmanagementmethoden (z. B. V-Modell XT) und neue Methoden zum agilen Projektmanagement (z. B. Scrum) können als Alternative zu den hier vorgeschlagenen klassischen Methoden eingesetzt werden.
+
+Begründung:
+Die Einführung von IT-Systemen und der entsprechenden Erhebung und Anpassung der Verwaltungsabläufe sollte im Rahmen strukturierter Projekte erfolgen. Zur Unterstützung dieser Projekte sind wesentliche Aspekte zum Aufbau und zur Durchführung zentral im „Praxisleitfaden Projektmanagement für die Öffentliche Verwaltung“ und im Organisationshandbuch dargestellt.
+
+Abhängigkeiten:
+Keine Abhängigkeiten vorhanden.
+
+Implikationen:
+Keine Implikationen vorhanden.

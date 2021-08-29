@@ -1,0 +1,27 @@
+Bezeichner:
+ISAV-06
+
+Titel:
+Protokollierung, Monitoring und Detektion von sicherheitsrelevanten Ereignissen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9049
+
+Revision:
+01
+
+Beschreibung:
+Für alle IT-Verfahren muss von der verantwortlichen Behörde eine auf das Verfahren zugeschnittene Richtlinie für die Protokollierung von Ereignissen, insbesondere zur Detektion von Cyber-Angriffen, gemäß Mindeststandard des BSI zur Protokollierung und Detektion von CyberAngriffen erstellt und umgesetzt werden.
+
+Begründung:
+Zielgerichtete Handlungen gegen die Informationssicherheit lassen sich nur durch die detaillierte Analyse von Protokollierungsdaten zu erkennen.
+
+Abhängigkeiten:
+Der Mindeststandard "Protokollierung und Detektion von CyberAngriffen" ist umzusetzen. In diesem Zusammenhang gelten auch die jeweils aktuelle Version der Protokollierungsrichtlinie des Bundes und der Grundschutzbausteine OPS.1.1.5 "Protokollierung" und DER.1 "Detektion von sicherheitsrelevanten Ereignissen"
+
+Implikationen:
+Bereits bei der Konzeption von IT-Verfahren ist ein Protokollierungskonzept zu erstellen und im Weiteren zu berücksichtigen.
+Die Meldepflichten gemäß § 4 Abs. 6 BSIG i. V. m. der AVV zum BSIG sind zu beachten. Um dem nachzukommen, ist ein Prozess für ein Sicherheitsvorfallmanagement zu etablieren.

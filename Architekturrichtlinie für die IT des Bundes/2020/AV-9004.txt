@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-05
+
+Titel:
+Gewährleistung der Informationssicherheit, des Datenschutzes und des Geheimschutzes
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9004
+
+Revision:
+02
+
+Beschreibung:
+Die Sicherheit schutzwürdiger Daten und Informationen muss zu jedem Zeitpunkt gewährleistet werden. Daten und Informationen müssen vor  unbefugtem Zugriff und Missbrauch geschützt werden. Die geltenden Vorgaben zur Informationssicherheit in der Bundesverwaltung, insb. des UP Bund und des § 8 BSIG, müssen eingehalten werden. Weiterhin müssen die betriebenen IT-Verfahren, die Verschlusssachen (VS) verarbeiten, nach dem jeweils aktuellen Stand der Technik geheimschutzkonform gestaltet werden. Die Regelungen des Datenschutzes, insbesondere die EU-Datenschutzgrundverordnung, das Sicherheitsüberprüfungsgesetz und die zu dessen Ausführung erlassenen allgemeinen Verwaltungsvorschriften, wie z. B. die Verschlusssachenanweisung, müssen jederzeit eingehalten werden.
+
+Begründung:
+Einschränkungen in Vertraulichkeit, Verfügbarkeit und Integrität (z. B. durch Datenverlust, Nicht-Verfügbarkeit oder den Fremdzugriff auf schutzwürdige Daten) können ernsthafte Folgen nach sich ziehen. Zu diesen zählen u. a. rechtliche Folgen, Vertrauensverlust gegenüber den Behörden, Autoritätsverlust und Angreifbarkeit des Staates. Weiterhin werden mit dieser Vorgabe Gesetzesvorgaben, wie das Informationssicherheitsgesetz und das BSI-Gesetz, das Sicherheitsüberprüfungsgesetz und die zu dessen Ausführung erlassenen allgemeinen Verwaltungsvorschriften, wie die VSA, oder allgemeine Sicherheitsvorgaben, wie nach § 8 BSIG, das IT-GrundschutzKompendium des BSI oder der UP Bund 2017, erfasst. Durch die Einhaltung wird die Informationssicherheit, also die Vertraulichkeit, Integrität, Verfügbarkeit und Fähigkeit zur Kontrolle der Informationen, wesentlich gesteigert werden.
+
+Abhängigkeiten:
+Diese Vorgabe steht in direkter Verbindung zu den Architekturvorgaben zur Informationssicherheit und zum Datenschutz in Kapitel 4.7 Architekturvorgaben zur Informationssicherheit.
+
+Implikationen:
+Unter anderem werden die Rechenzentren kontinuierlich geprüft und zahlreiche Sicherheitsmaßnahmen umgesetzt. Um Informationen und Daten außerdem umfassend zu schützen, ist es zwingend notwendig, deren Schutzbedarf (hinsichtlich Vertraulichkeit, Integrität und Verfügbarkeit) zu klassifizieren und zu bestimmen. Dazu benötigt das Projekt „IT-Konsolidierung Bund“ einheitliche Schutzbedarfskategorien, um für die entsprechend gebildeten Gruppierungen Schutzkategorien zu entwickeln. Umfassende Informationen werden in diesem Kontext u. a. durch den IT-Grundschutzkatalog des BSI zur Verfügung gestellt.

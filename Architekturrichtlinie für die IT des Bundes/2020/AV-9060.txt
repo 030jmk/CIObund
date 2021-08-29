@@ -1,0 +1,31 @@
+Bezeichner:
+NVPF-08
+
+Titel:
+Nutzung des Telefonkonferenz-Dienstes (bzgl. IT-Lösung Audiokonferenzanlage der Pressesprecher der Ministerien)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9060
+
+Revision:
+01
+
+Beschreibung:
+Der Telefonkonferenz-Dienst soll gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung.
+
+Begründung:
+Es handelt sich um eine bestehende Lösung für einen spezifischen Anwendungsbereich.
+
+Abhängigkeiten:
+Zum Datentransport wird eine sichere Verwaltungsnetzinfrastruktur genutzt, um die in den Pressestellen der Ressorts befindlichen speziellen Kommunikationsendgeräte mit der Konferenzzentrale zu verbinden.
+Diese IT-Lösung hängt von der Verfügbarkeit eines sicheren Verwaltungsnetzes ab, den die IT-Lösung als Transportmedium nutzt (Layer-2-Kopplung).
+
+Implikationen:
+Für die Nutzung müssen die Hausnetze die technischen Voraussetzungen erfüllen (z. B. UDP-, ARP-, RTP- und Ethernet-fähig) und entsprechend konfiguriert werden. Zudem ist es erforderlich, dass an den Nutzerliegenschaften IT-Personal verfügbar ist, um im Störfall die Entstörung zusammen mit dem zuständigen externen Dienstleister durchführen zu können.
+Zur Nutzung von Diensten über sichere Verwaltungsnetze müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+Die Audiokonferenzanlage der Pressesprecher der Ministerien setzt sich aus einer Konferenzzentrale, zwei Hauptstellen und 18 Nebenstellen zusammen. Die zentrale Konferenzzentrale ist im Presse- und Informationsamt der Bundesregierung untergebracht.
+Der Anwendungsbereich umfasst die Pressesprecherinnen und Pressesprecher und Ressortpressestellen, welche an den täglich stattfindenden Pressekonferenzen mit dem BPA teilnehmen.
+Diese IT-Lösung befindet sich im produktiven Einsatz. Eine Neuaufstellung auf Basis eines sicheren Verwaltungsnetzes mit Abschluss in 2019 ist vorgesehen.

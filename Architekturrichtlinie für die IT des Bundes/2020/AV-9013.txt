@@ -1,0 +1,37 @@
+Bezeichner:
+ÜBAV-14
+
+Titel:
+Reduzierung der Komplexität auf ein notwendiges Maß
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9013
+
+Revision:
+01
+
+Beschreibung:
+Die Komplexität sowohl von IT-Lösungen als auch der IT-Architektur soll auf ein notwendiges Maß reduziert werden.
+Dabei ergibt sich die jeweils notwendige Komplexität im Anwendungsgebiet individuell aus dem Kontext der Perspektive zugrundeliegender Verfahren.
+Hierfür sollen bei der Einführung und Entwicklung von IT-Lösungen Mechanismen zur Wiederverwendung von Komponenten, der klaren Funktionstrennung verschiedener Anwendungen und Systembestandteile, sowie zum modularen Aufbau von IT-Lösungen genutzt werden.
+Auf Ebene der Gesamtarchitektur soll eine Modularisierung und schichtenorientierte Ausrichtung angestrebt werden. Aus Gesamtarchitektursicht ist sowohl die Anzahl als auch der Umfang von Schnittstellen ein Indiz für gesamtarchitektonische Komplexität
+
+Begründung:
+Wesentlicher Erfolgsfaktor für den Aufbau und langfristigen Betrieb umfangreicher IT-Lösungen ist die Reduzierung der Komplexität auf ein notwendiges Maß.
+Die Reduktion von Komplexität – sowohl auf der Ebene einzelner ITLösungen als auch auf Ebene der IT-Architektur – führt zu einer Reihe von Vorteilen. Dies umfasst insbesondere:
+ Beitrag zur Flexibilisierung der IT-Architektur
+ Beitrag zur gesteuerten Weiterentwicklung von IT-Lösungen und IT-Architektur („Zukunftssicherheit“)
+ Verringerung der IT-Kosten (z. B. für Betrieb und Wartung)
+ Stabilisierung des IT-Betriebs (z. B. durch Verringerung von Fehlern und einer effizienteren Fehlersuche)
+
+Abhängigkeiten:
+Es bestehen Abhängigkeit zu ÜBAV-04, ÜBAV-10, ÜBAV-11, ÜBAV-12 und ÜBAV-15. Alle fünf Vorgaben unterstützen die Verringerung der Komplexität auf ein notwendiges Maß oder ermöglichen eine bessere Beherrschbarkeit der vorhandenen Komplexität.
+
+Implikationen:
+Mechanismen zur Reduktion der Komplexität sind in strategische, prozessuale und technische Strukturen des Bundes zu verankern.
+Es sind ressortübergreifende Vorgaben strategischer Art zur Verdeutlichung, was unter Komplexität der IT-Architektur zu verstehen ist und wie diese reduziert werden kann, zu entwickeln.
+Hierfür sind u. a. entsprechende Vorgaben abzuleiten und in die Methodiken zur Anwendungsentwicklung zu integrieren (z. B. zum modularen Aufbau von IT-Lösungen). Technische Lösungen können die Wiederverwendung von Programm-Code in der Anwendungsentwicklung unterstützen und zur Funktionstrennung beitragen.
+Eine einheitliche, nachvollziehbare Dokumentation und Publikation der IT-Anwendungslandschaft (inkl. Schnittstellen, Quellcode, etc.) unterstützt ein effizientes und zielgerichtetes Vorgehen. Hierfür müssen geeignete Hilfsmittel (Tools, Standards) definiert und bereitgestellt werden.

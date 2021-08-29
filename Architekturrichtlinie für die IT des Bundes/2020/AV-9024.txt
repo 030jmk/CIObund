@@ -1,0 +1,26 @@
+Bezeichner:
+DAAV-06
+
+Titel:
+Lose Koppelung von Diensten
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9024
+
+Revision:
+01
+
+Beschreibung:
+Zur Optimierung der losen Koppelung von Diensten sollen offene Standards und übergreifend abgestimmte Datenmodelle eingesetzt werden. Weiterhin sollen die Abhängigkeiten zwischen Diensten minimiert werden.
+
+Begründung:
+Wesentliche Voraussetzung für die lose Koppelung von Diensten sind wohl definierte und standardisierte Schnittstellen, welche die gesamte Interaktion eines Dienstes mit der Umgebung abdecken. Die spezifischen Details der Implementierung eines Dienstes müssen damit in der Umgebung (z. B. bei anderen Diensten) nicht bekannt sein. Weiterhin wird die Wiederverwendung und Wartung sowie die Zugriffskontrolle und –steuerung erleichtert.
+
+Abhängigkeiten:
+Diese Vorgabe konkretisiert die Architekturvorgabe ÜBAV-11 für Dienste. Abhängigkeiten bestehen zu den Architekturvorgaben ÜBAV-10, ÜBAV10 und ÜBAV-14.
+
+Implikationen:
+Die Vorgabe soll beim Entwurf, der Entwicklung und der Bereitstellung von Diensten berücksichtigt werden, wobei ein übergreifendes Schnittstellenmanagement unterstützend zu etablieren ist.

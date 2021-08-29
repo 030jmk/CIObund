@@ -1,0 +1,26 @@
+Bezeichner:
+DAAV-07
+
+Titel:
+Standardisiert dokumentierte Dienst- und Schnittstellenbeschreibungen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9025
+
+Revision:
+01
+
+Beschreibung:
+Die Dokumentation von Diensten muss spezifisch hinsichtlich Utility (Leistungsumfang), Warranty (Leistungsqualität) und den Service Design Aspekten (z. B. Organisation, technischer Aufbau) gestaltet sein, wobei auf vorhandenen Regelungen zur Dokumentation der DK aufzubauen ist (z. B. Dienstesteckbriefe, Domänen- und Referenzarchitekturen). Weiterhin müssen die durch einen Dienst angebotenen Schnittstellen hinsichtlich ihrer Ein- und Ausgabeparameter und ihres Verhaltens detailliert beschrieben sein. Es dürfen keine versteckten und undokumentierten administrativen Funktionen und erweiterten Schnittstellen vorgehalten werden
+
+Begründung:
+Sowohl die Merkmale eines Dienstes aus Kundinnen- und Kunden- bzw. Nutzerinnen- und Nutzersicht (Utility, Warranty, Schnittstellen) als auch aus Dienstleistersicht (Service Design Aspekte, Schnittstellen) sind für die Modularisierung, die lose Koppelung, die Interoperabilität und die Reduzierung der Komplexität entscheidend. Weiterhin kann eine effektive Zugriffskontrolle und -steuerung nur dann etabliert werden, wenn sämtliche Schnittstellen und Funktionen bekannt sind. Die Sicherheit wird gestärkt, da keine versteckten Funktionen bestehen.
+
+Abhängigkeiten:
+Es besteht ein enger Zusammenhang zu ÜBAV-10, ÜBAV-11 und ÜBAV14 und NVPF-02, da eine an diesen Vorgaben ausgerichtete und qualitätsgesicherte Dokumentation notwendig ist. Weiterhin ist die Vorgabe GSAV-03 zu beachten.
+
+Implikationen:
+Es sind übergreifende Vorgaben für die Dokumentation von Diensten und Schnittstellen festzulegen. Diese Vorgaben für die standardisierte Dokumentation sind bei Entwurf, Entwicklung und Bereitstellung von Diensten zu berücksichtigen.

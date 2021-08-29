@@ -1,0 +1,30 @@
+Bezeichner:
+ÜBAV-13
+
+Titel:
+Gewährleistung einer umweltfreundlichen und nachhaltigen Nutzung von Informationstechnik
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9012
+
+Revision:
+01
+
+Beschreibung:
+Es muss über den gesamten Lebenszyklus der Informationstechnik auf einen umweltfreundlichen und nachhaltigen Einsatz geachtet werden. Die ökologischen und sozialen Nachhaltigkeitsziele der ITBeschaffungsstrategie sollen konsequent umgesetzt werden. Daher sollen gemäß „IT-Beschaffungsstrategie für die zentralen ITBeschaffungsstellen“ bei Ausschreibungen, wo möglich, die Kriterien des Umweltzeichens „Blauer Engel“ verwendet werden. Ansonsten sollen die Kriterien oder Standards des Europäischen Umweltzeichens, des Energy Star oder vergleichbarer Label zur Anwendung kommen.
+Der Betrieb von Informationstechnik und der Rechenzentren der Bundesverwaltung sollen sich an den Vorgaben des Leitfadens des Beauftragten der Bundesregierung für Informationstechnik zur Optimierung des Energieverbrauches des IT-Betriebes orientieren. Rechenzentren und deren Infrastruktur sollen so ausgewählt und gestaltet werden, dass eine hohe Energieeffizienz und hohe Auslastung der Hardware-Ressourcen (z. B. Serverkapazitäten) erreicht wird. Darüber hinaus sind die Anforderungen des Blauen Engels für einen energieeffizienten Rechenzentrumsbetrieb in den Rechenzentren der Bundesverwaltung einzuhalten. Ein flexibles Up-/Downsizing an kapazitative Anforderungen soll dabei Berücksichtigung finden.
+Um natürliche Ressourcen zu schonen, soll funktionstüchtige IKT nach dem Nutzungsende in den Behörden primär dem Reuse-Markt zur Verfügung gestellt oder fachgerecht verwertet werden.
+Zusätzlich sollen jegliche IT-Lösungen so konzipiert werden, dass der Ressourcenverbrauch über den gesamten Lebenszyklus minimiert wird und gleichzeitig möglichst optimale Auslastungszeiten realisiert werden.
+
+Begründung:
+Die Voraussetzung für eine umweltverträgliche und nachhaltige Nutzung ist insbesondere die Beschaffung von umweltverträglicher IKT und ressourceneffizienter Software.
+Mit dieser Maßnahme werden die Regelungen der „Allgemeinen Verwaltungsvorschrift zur Beschaffung energieeffizienter Produkte und Dienstleistungen“ (AVVEnEff) eingehalten. Die Verpflichtungen aus dem Maßnahmenprogramm „Nachhaltigkeit“ der Bundesregierung (Staatssekretärsausschuss für nachhaltige Entwicklung, Beschluss vom 30. März 2015), aus dem Aktionsprogramm zum Klimaschutz 2020, dem Deutschen Ressourceneffizienzprogramm II und der Digitalen Agenda 2014 – 2017 werden hiermit ebenso erfüllt. Grundlage der Vorgabe bilden weiterhin diverse Beschlüsse des IT-Rates. Durch die Umsetzung dieser Kriterien können der Energieverbrauch reduziert und natürliche Ressourcen geschont werden. Darüber hinaus können mit dieser Maßnahme die Kosten für Energie reduziert werden. Die Berücksichtigung von Umweltkriterien bei der Anschaffung garantiert eine gute Qualität, Haltbarkeit und lange Lebenszeit von IT-Geräten.
+
+Abhängigkeiten:
+Keine Abhängigkeiten vorhanden.
+
+Implikationen:
+Die Anschaffungskosten für Hardware können im Zusammenhang mit dieser Richtlinie steigen, da umweltfreundliche Geräte häufig preisintensiver sind. Lebenszykluskostenberechnungen zeigen aber, dass sich diese Mehrausgaben im Laufe der Benutzungszeit i. d. R. amortisieren, nicht zuletzt durch eine effizientere, nachhaltigere Ausnutzung vorhandener Ressourcen. Weitere Hilfestellung geben das Umweltbundesamt sowie die Kompetenzstelle nachhaltige Beschaffung (KNB) beim Beschaffungsamt des BMI.

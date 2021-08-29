@@ -1,0 +1,43 @@
+Bezeichner:
+ÜBAV-07
+
+Titel:
+Orientierung an Architekturen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9006
+
+Revision:
+02
+
+Beschreibung:
+Die folgenden Architekturen müssen als Orientierungsvorlagen für die Weiterentwicklung der Landschaft an IT-Lösungen verwendet werden:
+ Gesamtarchitektur für die Dienstekonsolidierung
+ Rahmendokument für die Domänenarchitekturen
+ Domänenarchitektur E-Government
+ Domänenarchitektur Enterprise Resource Planning
+ Domänenarchitektur Elektronische Verwaltungsarbeit
+ Domänenarchitektur Infrastruktur
+ Referenzarchitektur Portale und Integration
+ Referenzarchitektur Akten- und Lebenszyklusmanagement16
+ Referenzarchitektur elektronische Verwaltungsarbeit16
+ Referenzarchitektur Logistik
+ Referenzarchitektur Personal
+ Referenzarchitektur Haushalt, Steuerung und Information
+ Referenzarchitektur Fördermanagement
+ Referenzarchitektur Normsetzung
+ Plattformen der Dienstekonsolidierung
+ Plattform der IT-Betriebskonsolidierung Bund
+ Organisationskonzept elektronische Verwaltungsarbeit
+
+Begründung:
+Die Orientierung an Architekturen (insbesondere Referenz-, Domänen-, Softwarearchitekturen) im Rahmen der Erstellung und Änderung der Landschaft an IT-Lösungen und damit die Anlehnung an Branchenstandards sowie gemeinschaftlich erhobener fachlicher und technischer Anforderungen fördert die Wirtschaftlichkeit und Nutzbarkeit der IT-Lösungen durch Wiederverwendung interner oder externer praxiserprobter Lösungsansätze.
+
+Abhängigkeiten:
+Die Orientierung an Architekturen ist eng verzahnt mit der Vorgabe ÜBAV-04.
+
+Implikationen:
+Die zukünftigen IT-Lösungen basieren auf praxiserprobten Architekturen. Die Entscheidungen zur technischen Ausgestaltung und Anpassung an Behördenbedarfe erfolgen im Rahmen der Architekturen. Die Behörden können die Architekturen als Basis für ihre Entscheidungen zur Nutzung von IT-Lösungen für ihre Aufgaben und Prozesse verwenden. Architekturen werden im Bund zwischen der Nachfrage- und Anbieterseite einvernehmlich abgestimmt und mit Standards aus Industrie und Verwaltung abgeglichen.

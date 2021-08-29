@@ -1,0 +1,26 @@
+Bezeichner:
+ISAV-07
+
+Titel:
+Standardisierte Schnittstellen und Protokollformate
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9050
+
+Revision:
+01
+
+Beschreibung:
+Es müssen Schnittstellen vorgesehen werden, über die dem BSI Schnittstellen- und Protokolldaten (§ 5 BSIG) der IT-Verfahren in standardisierter Form zugänglich gemacht werden.
+
+Begründung:
+Zur sicheren Gestaltung von E-Government-Dienstleistungen, hat das BSI entsprechende Schnittstellen- und Protokolldaten nach § 5 BSIG zu analysieren.
+
+Abhängigkeiten:
+Aufgrund der Nutzerpflichten für NdB und der für diese Weitverkehrsnetze eingerichteten Sicherheitsmechanismen des BSI kann diese Anforderung bereits erfüllt sein.
+
+Implikationen:
+siehe Abhängigkeiten

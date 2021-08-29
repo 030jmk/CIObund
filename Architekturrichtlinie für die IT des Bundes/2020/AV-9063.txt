@@ -1,0 +1,33 @@
+Bezeichner:
+NVPF-11
+
+Titel:
+Nutzung des Identity-Management-Dienstes und des Access-Management-Dienstes (IT-Lösung IAM)
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9063
+
+Revision:
+01
+
+Beschreibung:
+Der Identity-Management-Dienst und der Access-Management-Dienst müssen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+Die Nutzungsverpflichtung bezieht sich insbesondere auf neu entwickelte ressortübergreifende Dienste. Bestehende ressortübergreifende Dienste sollten die Dienste nutzen.
+
+Begründung:
+Nur wenn es gelingt, zukünftig alle neuen Dienste an das IAM anzubinden, können die erwarteten positiven Auswirkungen der Lösung (verbesserte Compliance, verbesserte Prozesse, geringere Kosten etc.) vollumfänglich realisiert werden. Für (noch) nicht bestehende Dienste ist es möglich, Anforderungen bezüglich ihrer Anbindbarkeit im Rahmen der Konzeptionsphase prüfend zu berücksichtigen.
+Bei der Beschaffung konnten häufig keine standardisierten Schnittstellen für IAM-Funktionalitäten vorgesehen werden, wodurch die Nutzung von IAM-Funktionalitäten erschwert ist. Zusätzlich erlaubt es die gewählte Softwarearchitektur häufig nicht oder nur sehr umständlich, entsprechende IAM-Funktionalitäten grundsätzlich mit vertretbarem Aufwand nachzurüsten.
+Die Fokussierung auf ein ressortübergreifendes IAM erleichtert perspektivisch den Betrieb für das Management von Identitäten und Zugriffen sowie die Interoperabilität von Diensten und kann damit Anschaffungs- und Integrationsaufwände reduzieren
+Authentifizierung und Autorisierung sind aufeinander aufbauende Schritte im Rahmen der Steuerung von Zugriffen. Als solche müssen sie jedoch getrennt voneinander gehalten und behandelt werden.
+
+Abhängigkeiten:
+Abhängigkeiten bestehen zu allen zu integrierenden Diensten. Als Basisdienst besitzt das IAM zu sämtlichen anderen Diensten/Projekten eingehende und ausgehende Abhängigkeiten. Die Anbindung an mögliche Quellsysteme wie Personalverwaltungssysteme oder bestehende Verzeichnisdienste ist vor dem Hintergrund der Lieferung qualitativ hochwertiger Identitäts- und Organisationsinformationen von besonderem Interesse. Zielsysteme, d. h. Konsumenten der Identitäts- und Berechtigungsinformationen bzw. –funktionalität, sind grundsätzlich alle ressortübergreifend genutzten IT-Lösungen (z. B. E-Akte, Social Intranet). Dabei ist NVPF-02 zu beachten.
+
+Implikationen:
+Die IAM-Funktionalität muss perspektivisch ein breites Spektrum verschiedener Anforderungen adressieren können, wenn sie umfänglich durch alle (neuen) Dienste genutzt werden soll. Daher ist es unerlässlich, bereits in einer frühen Phase der Konzeption eines neuen Dienstes, getroffene Annahmen zum IAM und realisierte IAM-Funktionalität gegen die tatsächlichen Anforderungen zu prüfen. Es ist nicht auszuschließen und sogar wahrscheinlich, dass auch neue (potenziell nicht berücksichtigte) Anforderungen in Richtung IAM gestellt werden. Die Komponenten und Konzepte des IAM müssen als Grundlage für neue oder bestehende IAM-Lösungen dienen und bestehende IAM-Lösungen anbinden können, die auf Ebene einzelner Ressorts oder Behörden umgesetzt werden sollen bzw. wurden.
+Zudem müssen Authentifizierung und Autorisierung und durch separate Dienste/Funktionen realisiert werden.
+Der Anwendungsbereich von IAM betrifft alle Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung.
+IAM befindet sich derzeit in Entwicklung.

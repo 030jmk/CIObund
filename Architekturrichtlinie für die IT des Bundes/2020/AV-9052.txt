@@ -1,0 +1,26 @@
+Bezeichner:
+ISAV-09
+
+Titel:
+Sicherstellung der Schadprogrammabwehr
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9052
+
+Revision:
+01
+
+Beschreibung:
+Für alle IT-Verfahren müssen Virenschutz- und Schadprogrammabwehrleistungen nach dem aktuellen Stand der Technik genutzt werden
+
+Begründung:
+Die Sicherstellung der Schadprogrammabwehr ist ein integraler Bestandteil der Sicherheitskonzeption im Sinne des ISM
+
+Abhängigkeiten:
+Zu berücksichtigen sind die Vorgaben gemäß § 8 BSIG, die Anforderungen aus dem IT-Grundschutz-Baustein OPS.1.1.4 "Schutz vor Schadprogrammen" und weitere Empfehlungen des BSI sowie die angebotenen Dienste von NdB.
+
+Implikationen:
+Umfang und Leistung der o. g. Schutzsysteme sind an die aktuellen Bedrohungsszenarien anzupassen. Weiterhin ist dies auch in Bezug auf Clients zu berücksichtigen.

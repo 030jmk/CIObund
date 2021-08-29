@@ -1,0 +1,29 @@
+Bezeichner:
+TIAV-02
+
+Titel:
+Betrieb von standardisierten Hostrechnern
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9031
+
+Revision:
+01
+
+Beschreibung:
+Für Hostrechner im Backend-Bereich sollen standardisierte Prozessorarchitekturen und Serverbetriebssysteme gemäß Anhang „Technische Spezifikationen zur Architekturrichtlinie“ Kapitel 2.1.124 genutzt werden.
+
+Begründung:
+Ziel ist eine weitgehende Standardisierung und Ausrichtung aller Infrastrukturkomponenten im Sinne der Rechenzentrumskonsolidierung. Eine standardisierte Prozessorarchitektur ermöglicht die Entwicklung von Software und den Einsatz von Systemkomponenten gegen eine definierte Plattform. Die Kompatibilität und Interdependenzen zu anderen eingesetzten Technologien und Infrastrukturen aus dem  Standardkatalog sind notwendig, um die Ziele der IT-Konsolidierung bestmöglich zu verfolgen.
+Weiterhin wird der Betrieb durch die Nutzbarkeit von einheitlichen Installations- und Administrationswerkzeugen erleichtert und eine Reduzierung des Schulungsaufwandes erreicht.
+
+Abhängigkeiten:
+Die Festlegung von Standards auf höheren Schichten (Datenbank,
+Applikationsserver usw.) wird durch diese Vorgabe eingeschränkt
+
+Implikationen:
+Beschaffte IT-Lösungen müssen mit der Prozessor-Architektur sowie dem
+Serverbetriebssystem kompatibel sein.

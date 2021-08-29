@@ -1,0 +1,32 @@
+Bezeichner:
+ÜBAV-03
+
+Titel:
+Sicherstellung der Digitalen Souveränität
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9070
+
+Revision:
+01
+
+Beschreibung:
+Die Bundesverwaltung soll in ihren Rollen als Nutzer, Bereitsteller und Auftraggeber von digitalen Technologien (d.h. insbesondere IT-Lösungen der Bundesverwaltung und zugrundeliegende Komponenten der ITArchitektur) die Digitale Souveränität (DiS) kontinuierlich stärken. Hierfür werden an die IT-Architektur folgende Anforderungen gestellt:
+ Die IT-Architektur ist transparent aufgebaut und flexibel anpassbar
+ Die eingesetzten IT-Komponenten sind interoperabel, steuerbar und vertrauenswürdig
+ Die IT-Lösungen sind anforderungsgerecht verfügbar und der Zugriff auf die Komponenten der IT-Architektur ist gewährleistet
+ Der Umfang von IT-Dienstleistungen ist individualisierbar und die Bundesverwaltung ist dazu befähigt IT-Komponenten entsprechend ihrer Bedürfnisse eigenständig zu entwickeln, zu warten und zu betreiben
+
+Begründung:
+Eine digital souveräne Bundesverwaltung ist, auch unter Einbeziehung externer Ressourcen, in der Lage, ihre Rolle(n) in der digitalen Welt selbstständig, selbstbestimmt und sicher auszuüben. Dafür benötigt sie die vollständige Kontrolle und Entscheidungshoheit über ihre IT-Architektur, in welcher jede Komponente ihren Zweck im Sinne der Bundesverwaltung erfüllt.
+Eine transparente IT-Architektur ermöglicht die Nachvollziehbarkeit von Architekturentscheidungen sowie die Einsehbarkeit von IT-Komponenten und ist Voraussetzung für die Erfüllung weiterer im Folgenden aufgeführter Anforderungen. Die Interoperabilität der verwendeten Komponenten unterstützt die Unabhängigkeit von Anbietern ebenso wie den flexiblen Umgang mit der IT-Architektur bei Veränderungen. Eine Bundesverwaltung, die dazu befähigt ist, IT-Komponenten individuell zu gestalten oder entsprechend ihrer Bedürfnisse eigenständig zu entwickeln, zu warten und zu betreiben, verbessert zum einen die Steuerbarkeit und Kontrolle über die IT-Architektur und kann zum anderen das eigene Innovationspotential stärken und besser ausschöpfen
+Durch den Einsatz vertrauenswürdiger Technologien wird ein hohes Maß an Informationssicherheit in den Bereichen Datenhoheit, Datenschutz sowie dem Schutz gegen Cyber-Angriffe gewährleistet. Sie werden eingesetzt, um Datenabflüsse zu verhindern und schützen vor unberechtigtem Zugriff. Gleichzeitig gewähren sie jederzeit den Zugriff auf die Daten und Komponenten der IT-Architektur mit dem Ziel, die anforderungsgerechte und fachliche Aufgabenerfüllung sicherzustellen.
+
+Abhängigkeiten:
+Die Vorgabe wird durch ÜBAV-04, ÜBAV-05, ÜBAV-06, ÜBAV-09, ÜBAV10 und ÜBAV-11 konkretisiert.
+
+Implikationen:
+Das Bestreben nach Digitaler Souveränität fördert den Umstieg auf digital souveräne Lösungen durch die Entwicklung standardisierter Umgebungen (z. B. Clientumgebungen zur Entkopplung von Fachverfahren und Betriebssystemen).

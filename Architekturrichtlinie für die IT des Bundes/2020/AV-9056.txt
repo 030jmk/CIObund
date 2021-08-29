@@ -1,0 +1,34 @@
+Bezeichner:
+NVPF-04
+
+Titel:
+Nutzung des Normsetzungskoordinationsdienstes (IT-Lösung eGesetzgebung)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9056
+
+Revision:
+01
+
+Beschreibung:
+Der Normsetzungskoordinationsdienst soll gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung. eGesetzgebung repräsentiert eine modularisierte und interoperable Plattform, die einen durchgängigen medienbruchfreien Gesetzgebungsprozess von der Entwurfserstellung bis zur Verkündung einer Rechtsnorm ermöglicht. In der Entwicklung eGesetzgebung werden zwingend die Architekturvorgaben beachtet und umgesetzt. eGesetzgebung wird aktuell auf freiwilliger Basis angeboten. Mit Aufnahme des Regelbetriebs sollen die beteiligten Organe sowie die Bundesregierung im Rahmen des Prozessmodells und der darauf aufbauenden Architekturen entscheiden, ob und wie die eGesetzgebung verpflichtend zu nutzen ist.
+
+Begründung:
+Für die Ausschöpfung der Vorteile eines durchgängig medienbruchfreien Gesetzgebungsprozesses sollten alle beteiligten Verfassungsorgane den Dienst nutzen.
+
+Abhängigkeiten:
+Die Einführung des Dienstes eGesetzgebung ist noch in Planung und erfolgt stufenweise. Abhängigkeiten können sich zukünftig für relevante fachlich verwandte Systeme ergeben, welche heute bereits Funktionen des Gesetzgebungsverfahrens abdecken (insbesondere eNorm - NVPF-03, Planungs- und Kabinettmanagement-Programm PKP).
+Sich ergebende Abhängigkeiten zu weiteren Diensten sind noch zu bewerten (insbesondere E-Akte - NVPF-01, SIB - NVPF-02). Der Dienst ist über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Die betroffenen Behörden und Organe sind an der Anforderungsaufnahme für die eGesetzgebung beteiligt. Ein fachliches Eckpunktepapier wurde bereits erstellt und wird noch abgestimmt. Die Konzeption der Architektur der ersten Ausbaustufe wird und die sich daraus ergebenden organisatorischen und technischen Implikationen werden mit den betroffenen Akteuren in 2018 abgestimmt.
+Die eGesetzgebung betrachtet folgende Geschäftsanwendungsfälle:
+ Planung und Steuerung (u. a. Zeitplanung, Ablauf Rechtssetzung, Dokumentation Beschluss, Sachstandsberichte, Veröffentlichung Regelungsvorhaben, Informationsbündelung, Freigaben)
+ Arbeit am Regelungsvorhaben (u. a. Erstellen, Verteilen, Kommentieren, Einarbeitung von Stellungnahmen, Anhörungen, Bürgerbeteiligungen, Berichtungsverfahren)
+ Wiederkehrende Basisfunktionalitäten (u. a. Text-/ Änderungsvergleich und -nachverfolgung, Prüfung Regelungsvorhaben, Ermittlung Folgeänderungen)
+Im Rahmen der Geschäftsanwendungsfälle werden Prototypen für einzelne Funktionalitäten, auch anderer Dienste, bereitgestellt und bewertet.
+Der Anwendungsbereich der eGesetzgebung betrifft alle Mitarbeiter der Bundesverwaltung mit Bezug zu Normsetzungsverfahren.
+Die eGesetzgebung befindet sich in der Konzeptionsphase. Für 2018 ist die Bereitstellung von ersten Funktionen vorgesehen. Ab 2019 ist die Pilotierung und ab 2021 die Nutzung vorgesehen.

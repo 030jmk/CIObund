@@ -1,0 +1,31 @@
+Bezeichner:
+GSAV-03
+
+Titel:
+Nutzung geeigneter Technologien und Sprachen für die grafische Modellierung von Prozessmodellen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9017
+
+Revision:
+01
+
+Beschreibung:
+Folgende grafische Modellsprachen und Notationen für die Modellierung von Geschäftsprozessen müssen verwendet werden:
+ Business Process Model and Notation (BPMN) 2.0
+BPMN ist eine grafische Notation zur Modellierung und Ausführung von Geschäftsprozessen. Sie eignet sich vor allem für alle Softwareentwicklungsprojekte und organisatorischen Maßnahmen, in denen lediglich eine grobe Modellierung verschiedener Detaillierungsgrade benötigt wird.
+ Ereignisgesteuerte Prozesskette (EPK)
+Die EPK dient der Abbildung von Abläufen innerhalb von und zwischen Organisationen. Prozessketten beschreiben die zeitlichlogischen Abläufe und das Zusammenspiel zwischen Daten, Prozessschritten, IT-Systemen, Organisationen und Produkten. EPK kann für die Darstellung von Geschäftsprozessen in Verbindung mit der Organisationsentwicklung eingesetzt werden. Auch einfache technisch-funktionale Prozessmodelle, insbesondere für die fachliche Grobkonzeption, können durch EPK dargestellt werden.
+Die Wahl oder Nutzung geeigneter Modellsprachen und Notationen (BPMN, EPK) muss in Abhängigkeit des jeweiligen Projektes oder Prozessgegenstandes gewählt werden. Eine Abgrenzung und damit Einschränkung von Methoden ohne vorherige Klassifizierung des Prozessgegenstandes, der IT-Ausrichtung oder des IT-Projekts, auf die sie angewendet werden sollen, soll vermieden werden.
+
+Begründung:
+Die korrekte Abbildung von Prozessen über Verwaltungsabläufe, die erstmals zu wesentlichen Teilen elektronisch unterstützt werden sollen, ist eine elementare Voraussetzung für die zukünftige IT-Ausrichtung und deren organisatorische Rahmenbedingungen der Bundesverwaltung. Mit vollständig modellierten Prozessen lassen sich Entscheidungen bezüglich der IT-Ausrichtung und der Anpassung organisatorischer Rahmenbedingungen schneller und effizienter treffen. Die aufgeführten Vorgaben sind Standards in Lehre und Forschung und sind erprobt und verlässlich.
+
+Abhängigkeiten:
+Diese Vorgabe spezifiziert einen Teilaspekt der Vorgabe GSAV-02
+
+Implikationen:
+Den entsprechenden Modellierern müssen geeignete IT-Tools und Schulungen zur Verfügung gestellt werden.  Da bis 2025 in den von der IT-Konsolidierung betroffenen Bereichen von den zentralen IT-Dienstleistern nur noch maximal zwei Basisdienste bzw. Querschnittsdienste für gleiche Funktionalitäten bereitgestellt werden sollen, enthält das IT-Rahmenkonzept 2019 das Projekt "Prozessmanagementtool".

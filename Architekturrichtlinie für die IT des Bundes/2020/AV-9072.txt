@@ -1,0 +1,26 @@
+Bezeichner:
+TIAV-07
+
+Titel:
+Qualitätsmanagement in der Anwendungsentwicklung
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9072
+
+Revision:
+01
+
+Beschreibung:
+Alle Anwendungen und Anwendungsentwicklungen müssen einem standardisierten Prozess des Qualitätsmanagements unterliegen. Insbesondere die Versionierung von Quellcode und Artefakten, kontinuierliche Integration, statische Codeanalyse, (automatisierte) Softwaretests, Lasttests, Vulnerabilty Scans von eingesetzten Komponenten und kollaboratives Wissensmanagement sind durchzuführen.
+
+Begründung:
+Durch einen kontinuierlichen Prozess des Qualitätsmanagements werden Fehler im Entwicklungsprozess frühzeitig erkannt. Nötige Änderungen können schneller eingearbeitet werden. Außerdem wird die Sicherheit der Anwendung erhöht. Insgesamt wird die Qualität der Anwendungen verbessert.
+
+Abhängigkeiten:
+In Erarbeitung
+
+Implikationen:
+In Erarbeitung

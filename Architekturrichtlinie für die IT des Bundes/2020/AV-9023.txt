@@ -1,0 +1,60 @@
+Bezeichner:
+DAAV-05
+
+Titel:
+Nutzung und Leistung in der Domäne Infrastruktur (INF)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9023
+
+Revision:
+02
+
+Beschreibung:
+Die Dienste der Domäne Infrastruktur sollen gemäß Architekturvorgabe DAAV-01 „Nutzungsverpflichtung“ genutzt werden.
+Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung (KoITB Nr. 2018/3, Version 2019 als schriftliche Information zur 14. KoITB am 28. März 2019) [Nutzungsverpflichtung].
+Die die Dienste umsetzenden IT-Maßnahmen sind im IT-Rahmenkonzept des Bundes (Haushaltsjahr 2021, KoITB Nr. 13/2019 vom 04. Dezember 2019) aufgeführt.
+Die die Dienste realisierenden IT-Lösungen/ Produkte sind im Produktkatalog des Verbundes der IT-Dienstleister (Version 3.0 als schriftliche Information zur 14. KoITB am 28. März 2019) aufgeführt [Leistungsverpflichtung].
+|Dienst [Nutzung]|IT-Maßnahme|Produkt/IT-Lösung [Leistung]|
+|---|---|---|
+|NdB|keine (NdB) |NdB|
+|Spezial-Netze|eVSB|SINA H, WAN, LAN, WLAN|
+|Konventioneller Betriebsplattform|keine (Ertüchtigung IT-Dienstleister)|Technischer Applikationsbetrieb, Middleware Laufzeit|
+|Cloud-Betriebsplattform|Bundescloud|BCLaufzeit, BCDatenbank, BCServer, BCDetection, BCStorage, BCContainer, Technischer Applikationsbetrieb, Middleware Laufzeit|
+|Cloud-Entwicklungsplattform|Bundescloud|BCEntwicklung|
+|Self-Service-Plattform|Bundescloud|noch keins|
+|Service-LifecycleManagement-Support|Bundesclient, Grundschutztool|HiScout, DATSCHA|
+|Scan|Bundesclient, E-Scannen|Bundesclient|
+|Arbeitsplatz-PC|Bundesclient|Bundesclient|
+|Mobiles-Gerät|Bundesclient|Bundesclient|
+|Ultra-Mobiles-Gerät|Bundesclient|Bundesclient|
+|Druck|Bundesclient|Bundesclient|
+|E-Mail|Bundesclient|Bundesclient|
+|Internet|Bundesclient|NdB, Bundesclient|
+|Identity-Management|IAM|IAM|
+|Access-Management|IAM|IAM; BCAccessMgmt.|
+|PKI|PKI und QES|Signaturkarten für qeS|
+|Hardware-Token|meDA|Signaturkarten für qeS|
+|QES-/Beweiswerterhaltung|PKI und QES |Zeitstempel|
+|G2X-Kommunikation|G2X|noch keins|
+|Telefonkonferenz|AKA|NdB|
+|Audio-/Video-Streaming|Bund-TV|NdB|
+|Fax|keine|NdB|
+|Telefonie|keine|NdB|
+|Videokonferenz|keine|NdB|
+
+Begründung:
+Die Nutzung gemeinsamer Basis-, Querschnitts- und Infrastrukturdienste dient der Harmonisierung und Konsolidierung der IT des Bundes. Weiterhin dürfen bei Basis-, Querschnitts- und Infrastrukturdiensten maximal zwei parallele IT-Lösungen entstehen.
+
+Abhängigkeiten:
+Diese Architekturvorgabe hat übergreifende Bedeutung für alle Architekturvorgaben, die den funktionalen Umfang und Anwendungsbereich eines Dienstes der Dienstekonsolidierung in der Domäne Infrastruktur festlegen.
+
+Implikationen:
+Behörden planen für die Funktionalität eines Dienstes der Dienstekonsolidierung in der Domäne Infrastruktur bei Vorliegen
+ eines Dienstesteckbriefes langfristig (ca. in den nächsten 10 Jahren),
+ einer IT-Maßnahme mittelfristig (ca. in den nächsten 5 Jahren) und
+ eines Produktes kurzfristig (ca. in den nächsten 2 Jahren)
+mit der Ablösung ihrer IT der gleichen Funktionalität. Die Behörden nehmen im jeweiligen Planungshorizont nur die zulässigen Investitionen vor. Grundsätzliche Planungen und Zeitpunkte zur Verpflichtung ergeben sich für IT-Maßnahmen aus dem IT-Rahmenkonzept und für Produkte/IT-Lösungen aus dem Produktkatalog. Die Behörden stimmen sich mit den IT-Maßnahmen und den IT-Dienstleistern bezüglich des individuellen Rollouts, der Migration sowie der Leistungserbringung ab.

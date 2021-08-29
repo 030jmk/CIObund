@@ -1,0 +1,26 @@
+Bezeichner:
+GSAV-02
+
+Titel:
+Etablierung eines Prozessmanagements
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9016
+
+Revision:
+01
+
+Beschreibung:
+Zur begleitenden Einführung der elektronischen Unterstützung von Verwaltungsabläufen muss ein Prozessmanagement in den Behörden, unter Berücksichtigung der DIN SPEC 90158 „Handlungsleitfaden für ein strategisches und operatives Prozessmanagement in der öffentlichen Verwaltung“, etabliert werden. Sofern für die Etablierung eines Prozessmanagements Beratungsbedarf besteht, können die Beratungsleistungen der Kompetenzzentren Prozessmanagement (CC PM) genutzt werden. Zusätzlich müssen die Muster- und Referenzprozesse aus den Bereichen Haushalt und Beschaffung sowie das Referenzmodell des Projektes E-Beschaffung und das Vorgehensmodell des Projektes E-Akte als Grundlage für die Architekturen in diesen Bereichen beachtet werden. Diese sind auf dem BSCW-Server eingestellt
+
+Begründung:
+Nach § 9 Absatz 1 EGovG sollen Behörden des Bundes Verwaltungsabläufe, die erstmals zu wesentlichen Teilen elektronisch unterstützt werden, vor Einführung der informationstechnischen Systeme unter Nutzung gängiger Methoden dokumentieren, analysieren und optimieren. D. h. Prozesse sollen erhoben, dargestellt (als Prozessmodell - IST-Prozess), bewertet und verbessert (SOLL-Prozess) werden.
+
+Abhängigkeiten:
+Die Vorgaben GSAV-03 und GSAV-04 konkretisieren diese Vorgabe durch die Aufführung geeigneter Technologien und Sprachen.
+
+Implikationen:
+Da bis 2025 in den von der IT-Konsolidierung betroffenen Bereichen von den zentralen IT-Dienstleistern jeweils nur noch maximal zwei Basisdienste bzw. Querschnittsdienste für gleiche Funktionalitäten bereitgestellt werden sollen, enthält das IT-Rahmenkonzept 2019 das Projekt "Prozessmanagementtool".

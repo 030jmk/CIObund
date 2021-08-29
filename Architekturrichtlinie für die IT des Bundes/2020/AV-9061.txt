@@ -1,0 +1,32 @@
+Bezeichner:
+NVPF-09
+
+Titel:
+Nutzung des Audio-/Video-Streaming-Dienstes (bzgl. IT Lösung Bund-TV)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9061
+
+Revision:
+01
+
+Beschreibung:
+Der Audio-/Video-Streaming-Dienst soll gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung.
+Die hier benannte Nutzungsverpflichtung bezieht sich auf die spezifische IT-Lösung Bund-TV zur Übertragung von Sitzungen des Bundestages, des Bundesrates, Ausstrahlungen des Bundeskanzleramtes sowie alle Ausstrahlungen des Bundespressekonferenz.
+
+Begründung:
+Es handelt es um eine bestehende Lösung für einen spezifischen Anwendungsbereich.
+
+Abhängigkeiten:
+Dieser Dienst hängt von der Verfügbarkeit eines sicheren Verwaltungsnetzes ab, den er als Transportmedium nutzt.
+
+Implikationen:
+Für die Nutzung müssen die Hausnetze die technischen Voraussetzungen (z. B. IP-Multicast- und Fast-Ethernet-fähig) erfüllen und entsprechend konfiguriert werden. Insbesondere ist zur Verbreitung von Videostreams in den Hausnetzen der Standard-IP-Multicast einzusetzen.
+Zusätzlich ist es erforderlich, dass an den Nutzerliegenschaften ITPersonal verfügbar ist, um die Verteilung der am Nutzerumsetzer ankommenden Signale in das BK-/bzw. Hausnetz sicherzustellen.
+In den Mitwirkungspflichten für die Nutzerinnen und Nutzer von BundTV sind zudem die Nutzungsvoraussetzungen festgehalten. Diese orientieren sich an den Nutzerpflichten für das genutzte sichere Verwaltungsnetz.
+Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+Der Anwendungsbereich umfasst alle Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung mit Bezug zur Übertragung und dem Empfang von dienstbezogenen TV-Inhalten.
+Diese IT-Lösung befindet sich im produktiven Einsatz. Eine Umstellung vom satellitengestützten Verfahren auf eine IP-basierte StreamingLösung unter Beachtung der Anforderungen des sicheren Verwaltungsnetzes ab 2017 ist in Entwicklung.

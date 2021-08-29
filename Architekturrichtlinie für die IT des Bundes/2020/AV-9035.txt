@@ -1,0 +1,27 @@
+Bezeichner:
+TIAV-06
+
+Titel:
+Nutzung von standardisierten Programmiersprachen und Entwicklungsumgebungen für die serverseitige Anwendungsentwicklung
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9035
+
+Revision:
+01
+
+Beschreibung:
+Alle (serverseitigen) Anwendungsentwicklungen sollen unter Verwendung standardisierter Programmiersprachen sowie Entwicklungsund Laufzeitumgebungen gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.1.4 durchgeführt werden. Für die Anwendungsentwicklung sollen quelloffene Entwicklungswerkzeuge mit adäquatem Support (Programme, Frameworks, Bibliotheken) verwendet werden.
+
+Begründung:
+Durch die Verwendung standardisierter Programmiersprachen, Entwicklungs- und Laufzeitumgebungen wird die Herstellerabhängigkeit reduziert und IT-Personal kann flexibler für unterschiedliche Aufgaben eingesetzt werden.
+Mit der Verwendung quelloffener Entwicklungswerkzeuge wird die Betriebsfähigkeit der Verfahren dauerhaft sichergestellt.
+
+Abhängigkeiten:
+Diese Richtlinie erfordert TIAV-04 als Grundlage
+
+Implikationen:
+Die IT-Dienstleister des Bundes stellen in deren Standardkatalogen Empfehlungen von offenen Elementen, Entwicklungswerkzeugen, Bibliotheken und Standards vor. Die Kataloge sind bei den IT-Dienstleistern über den Leistungsverbund zu beziehen.

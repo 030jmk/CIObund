@@ -1,0 +1,32 @@
+Bezeichner:
+NVPF-15
+
+Titel:
+Nutzung des Bezahlplattform-Dienstes und des Ausgangsrechnungsdienstes (IT-Lösung E-Payment-Bund)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9067
+
+Revision:
+01
+
+Beschreibung:
+Der Bezahlplattform-Dienst und Ausgangsrechnungsdienst sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Durch die Dienste sollen die Aufwände für die Zahlungsabwicklung gesenkt werden.
+
+Abhängigkeiten:
+ePayBL (E-Payment Bund-Länder) besitzt Schnittstellen zu den ITSystemen für das Haushalts-, Kassen- und Rechnungswesen des Bundes, insbesondere zum Zahlungsüberwachungsverfahren, zu den Zahlungsverkehrsdienstleistern und zu den ERP-Systemen der Bewirtschafter. Die Architekturvorgaben ÜBAV-09 und ÜBAV-11 sowie NVPF-02 und NVPF-03 sind zu beachten.
+
+Implikationen:
+Die Einführung der Dienste erfordert die organisatorische und technische Begleitung der Zahlungsabwicklungsprozesse und deren Meldungen von und für Quer- sowie Fachdienste der Behörde. Die Quer- und Fachdienste können die standardisierte Webservice-Schnittstelle ansprechen.
+Bei der Anbindung sind rechtliche Rahmenbedingungen zu Sicherheitsstandards, Datensicherung und Datenschutz, aber auch Bedingungen aus BGB und TMG zu berücksichtigen.
+Über die Zahlungsverkehrsplattform ePayBL (E-Payment Bund/Länder) können Bundesbehörden, die Leistungen online verfügbar machen, ihren Kunden den Funktionsumfang zur Zahlungsabwicklung/ Inkasso anbieten. Damit wird der Einzug der Geldbeträge für kostenpflichtige Leistungen (anfallende Gebühren, Verpackungs- oder Versandkosten) sichergestellt und über den Erfolg oder Misserfolg der jeweiligen Transaktion informiert.
+ePayBL verfügt einerseits über eine direkte Anbindung an das Haushaltssystem des Bundes und andererseits an Zahlungsverkehrsprovider (z. B. Kreditkarteninstitute und Banken).
+Der Anwendungsbereich der Dienste betrifft alle mit der Zahlungsabwicklung betrauten Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung.
+E-Payment-Bund ist verfügbar und im Einsatz. Für die Nutzung müssen die jeweiligen Behörden sich mit dem Diensteanbieter abstimmen.
+Eine IT-Maßnahme zur Weiterentwicklung ist Bestandteil des IT-Rahmenkonzeptes Bund (z. B. Anbindung von paydirekt und die Integration von E-Rechnung).

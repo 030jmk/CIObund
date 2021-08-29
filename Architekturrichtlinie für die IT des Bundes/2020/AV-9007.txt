@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-08
+
+Titel:
+Sicherstellung von Benutzerfreundlichkeit und Barrierefreiheit
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9007
+
+Revision:
+01
+
+Beschreibung:
+Die Bedienbarkeit von IT-Lösungen muss für jeden Benutzenden einfach, einheitlich und intuitiv sein. Die zugrundeliegenden Bedienungskonzepte müssen den Anwendenden bekannt und transparent sein. Weiterhin soll die Barrierefreiheit der IT-Lösungen, soweit möglich, sachgerecht sichergestellt sein. Insbesondere müssen hierbei der Industriestandard DIN EN ISO 9241, die „Barrierefreie Informationstechnik Verordnung“ (BITV) sowie der Styleguide der Bundesregierung für Webangebote beachtet werden.
+
+Begründung:
+Wenn die zugrundeliegenden Bedienkonzepte einer IT-Lösung den Benutzerinnen und Benutzern unbekannt sind, wird die Produktivität der Benutzenden negativ beeinträchtigt. Benutzerfreundliche IT-Lösungen erreichen eine höhere Akzeptanz bei den Anwendenden und fördern ein produktiveres Arbeiten, eine höhere Qualität und verringern Fehlbedienungen durch die Anwendenden. Aufwände und Kosten werden gespart, da die Bedienung ähnlich zu anderen, gängigen ITLösungen erfolgt, der Schulungsaufwand begrenzt und das Risiko einer unsachgemäßen Bedienung der IT-Lösung gering ist.
+
+Abhängigkeiten:
+Diese Vorgabe hat Auswirkungen auf die Beschaffung von IT-Ausstattung, da die Gewährleistung der Barrierefreiheit sichergestellt sein muss.
+
+Implikationen:
+Es werden Aspekte wie Sprache, Lokation, Barrierefreiheit, körperliche Einschränkungen der Anwendenden (z. B. Sehschwäche, beschränkte Möglichkeit Tastatur und Maus zu nutzen) und Schulungen beim Design der IT-Lösung berücksichtigt. Standardisierte Design-Aspekte für die grafische Benutzeroberfläche der IT-Lösungen werden angewandt (einheitliches Look-and-Feel) und moderne Technologien berücksichtigt (z. B. Touchscreen).

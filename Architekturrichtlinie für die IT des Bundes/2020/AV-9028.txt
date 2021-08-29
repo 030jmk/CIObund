@@ -1,0 +1,28 @@
+Bezeichner:
+DAAV-10
+
+Titel:
+Nutzung verpflichtender Schnittstellen für ein einheitliches Modell zur Verwaltung von Identitätsinformationen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9028
+
+Revision:
+02
+
+Beschreibung:
+Eine Schnittstelle von anderen Diensten mit eigenen identitätsbeschreibenden Attributen oder Berechtigungsrichtlinien an den Dienst "Ressortübergreifendes Identitätsmanagement für die Bundesverwaltung" muss in der gesamten unmittelbaren Bundesverwaltung gemäß Architekturvorgabe DAAV-01 berücksichtigt werden.
+Sofern neu entwickelte und ressortübergreifend genutzte Dienste der Bundesverwaltung eigene identitätsbeschreibende Attribute  (Rollenzuordnungen etc.) oder Berechtigungsrichtlinien (Access Control Policies) vorhalten, müssen diese über dedizierte Schnittstellen auch durch externe Dienste abgefragt werden können.
+
+Begründung:
+Eine Integration von IAM-System und -Dienst ist nur dann möglich, wenn alle für die Zugangs- und Zugriffssteuerung des Dienstes benötigten Informationen auch extern abfragbar sind.
+
+Abhängigkeiten:
+Abhängigkeiten bestehen zu allen zu integrierenden Diensten. Bei der Beschaffung von Standardprodukten (wie dies beispielsweise für die EAkte vorgesehen ist) aber auch der Anbindung bereits bestehender Dienste wird man darauf angewiesen sein, dass die jeweiligen Anbieter bereits entsprechende Schnittstellen in ihren Lösungen vorsehen oder diese leicht "nachrüsten" können.
+Darüber hinaus ergeben sich aus der Anzahl der Dienste sowie deren Nutzerinnen und Nutzer ggf. weiterführende nichtfunktionale Anforderungen (Performance, Verfügbarkeit usw.).
+
+Implikationen:
+Die Etablierung zentraler Sicherheitsdienste, welche durch Querschnittsdienste genutzt werden, stellt besondere Anforderungen an deren Sicherheit, Performance und Verfügbarkeit. Hier muss sehr genau geprüft werden, welche Anforderungen bei der Konzeption, Umsetzung und dem Betrieb der Lösung berücksichtigt werden müssen.

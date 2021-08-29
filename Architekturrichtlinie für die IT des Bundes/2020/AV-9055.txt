@@ -1,0 +1,33 @@
+Bezeichner:
+NVPF-03
+
+Titel:
+Nutzung des Normenbearbeitungsdienstes und des Normenprüfungsdienstes (IT-Lösung eNorm)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9055
+
+Revision:
+01
+
+Beschreibung:
+Der Normenbearbeitungsdienst und der Normenprüfungsdienst sollen gemäß Architekturvorgabe DAAV-01 "Nutzungsverpflichtung" genutzt werden. Den Funktionsumfang des Dienstes regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Ein medienbruchfreies und instanzenübergreifendes Normsetzungsvorhaben setzt ein einheitliches Dokumentformat unter Verzicht auf fehlerträchtige Konvertierungsprozesse und die Nutzung desselben Unterstützungstools durch alle am Prozess Beteiligten voraus. Die Weiterentwicklung des Dienstes eNorm fördert die übergreifende einheitliche Nutzung.
+
+Abhängigkeiten:
+Der Dienst
+ muss mit dem Planungs- und Kabinettmanagement-Programm (PKP) zusammenarbeiten und
+ muss im Bundesclient lauffähig sein (NVPF-06).
+Mögliche weitere sich ergebende Abhängigkeiten zu Diensten sind noch zu bewerten.
+eNorm ist derzeit als Add-In zu einer Textverarbeitung konzipiert. Die aktuelle Umsetzung weist eine Abhängigkeit zur Standardsoftware Microsoft Word auf. Diesbezüglich erfolgt noch eine Prüfung der Einhaltung der Architekturvorgabe zur Entkopplung von Diensten (DAAV-09).
+Der Zugriff auf die Bundesrechtsdatenbank durch einen speziellen Webservice setzt zudem eine Internetanbindung voraus.
+
+Implikationen:
+Für die Nutzung des weiterentwickelten eNorm ist zu validieren, inwiefern in den jeweiligen Behörden organisatorische Abläufe und Strukturen optimiert werden können. Die Aktivitäten sind eng an eGesetzgebung und PKP zu koppeln.
+Der Anwendungsbereich des Dienstes betrifft alle Mitarbeiter der Bundesverwaltung mit Bezug zu Normsetzungsverfahren. eNorm kommt ebenfalls im Deutschen Bundestag verbindlich zum Einsatz. eNorm ist verfügbar und im Einsatz. Für die Nutzung müssen die jeweiligen Behörden sich mit dem Diensteanbieter abstimmen.
+Eine IT-Maßnahme zur Weiterentwicklung, insbesondere zu Automatismen, Technologie und Nutzerführung, ist Bestandteil des ITRahmenkonzeptes Bund.

@@ -1,0 +1,29 @@
+Bezeichner:
+ÜBAV-12
+
+Titel:
+Sicherstellung von loser Kopplung/Modularität
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9011
+
+Revision:
+01
+
+Beschreibung:
+Anwendungen und Dienste müssen nach dem Baukastenprinzip modular aufgebaut werden. Jedes Modul soll eigenständig nutzbar sein und entsprechend unabhängig weiterentwickelt, aktualisiert und betrieben werden können. Der funktionale Umfang eines Moduls soll sich hierbei an etablierten Referenzarchitekturen und einheitlichen Kriterien für den Zuschnitt von Modulen (z. B. Wirtschaftlichkeit, Wiederverwendbarkeit) orientieren
+
+Begründung:
+Das Ergebnis nicht-modular aufgebauter Anwendungen und Dienste sind schwer anpassbare und inflexible Lösungen, mit denen hohe Kosten und Aufwände einhergehen. Eine lose Kopplung ermöglicht es, Änderungen an einzelnen Komponenten eines Systems einfacher durchzuführen und vereinfacht auch die Wartbarkeit der Komponenten, da diese unabhängig von anderen Komponenten durchgeführt werden kann (ausgenommen Schnittstellen).
+Weiterhin ist die Modularisierung eine wesentliche Voraussetzung für die Wiederverwendbarkeit und ermöglicht ein strukturiertes Testvorgehen bei der Weiterentwicklung/Wartung. Außerdem sind modularisierte Anwendungen und Dienste aufgrund der klaren Abgrenzungen der Teilkomponenten einfacher zu verwalten.
+
+Abhängigkeiten:
+Diese Vorgabe steht in engem Zusammenhang mit den Vorgaben ÜBAV09 und ÜBAV-15, da sich die entsprechenden Vorgaben gegenseitig ergänzen. Des Weiteren bildet sie eine Grundlage für ÜBAV-11, da sie aktiv die Wiederverwendung von IT-Lösungen bzw. ausgewählten Teilbereichen adressiert.
+Außerdem wird diese Vorgabe durch NVPF-02 für Dienste weiter spezifiziert.
+
+Implikationen:
+Die Vorgabe impliziert eine Abkehr rein monolithischer SW-Systeme, zugunsten flexibler, modularer IT-Lösungen.
+Die Kriterien für den Zuschnitt von Modulen werden übergreifend festgelegt und in den Entwicklungsrichtlinien für Anwendungen und Dienste im Rahmen eines übergreifenden IT-Architekturmanagements verankert. Aufgrund der Bedeutung für die Wartbarkeit, Flexibilität und Wirtschaftlichkeit der IT-Landschaft wird eine Prüfung von loser Kopplung/Modularität bei Neu- und Weiterentwicklungen im Rahmen übergreifender Architekturgremien etabliert.

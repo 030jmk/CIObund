@@ -1,0 +1,30 @@
+Bezeichner:
+NVPF-17
+
+Titel:
+Nutzung der Personaldienste (IT-Lösung PVS plus, TMS, E-Beihilfe)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9069
+
+Revision:
+01
+
+Beschreibung:
+Die Personaldienste sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Mit der Konsolidierung bestehender Systeme bzw. der Einführung eines einheitlichen Systems werden die Prozesse und Datenbestände harmonisiert.
+Die Bedeutung der Personalverwaltung wird mit dem demographischen Wandel sowie dem zu erwartenden Fachkräftemangel steigen, sodass eine weitgehend einheitliche IT-Unterstützung die ressortübergreifende Zusammenarbeit erleichtert und die Fehleranfälligkeit reduziert.
+Die Dienste unterstützen die Standardisierung des Personalmanagements durch einheitliche Geschäftsprozesse und können IT-und Papierschnittstellen reduzieren.
+
+Abhängigkeiten:
+Die IT-Lösung(en) für die Dienste basieren auf einer weiter entwicklungsfähigen IT-Plattform und tragen entscheidend zur fachübergreifenden Integration unterschiedlichster Bereiche bei. Abhängigkeiten zu weiteren Diensten sind bei Einführung zu bewerten, mit dem Ziel einheitliche Schnittstellen zu schaffen. Die Architekturvorgaben ÜBAV-09 und ÜBAV-11 sowie NVPF-02 und NVPF03 sind zu beachten.
+
+Implikationen:
+Die Dienste sind produktiv. Aktuell werden im Wesentlichen vier verschiedene IT-Lösungen betrieben (PVS+, PVS, PersWiSysBw und EPOS). Im Rahmen der Konsolidierung ist die Reduzierung der Anzahl der IT-Lösungen anvisiert. Der IT-Rat hat am 15. März 2016 eine vertiefende Prüfung konkreter Konsolidierungsmodelle beschlossen. Die Behörden haben entsprechende technische und organisatorische Planungen in Anlehnung an die Feinkonzeption der Maßnahme im IT-Rahmenkonzept schrittweise ab 2017 vorzunehmen.
+Der Anwendungsbereich der Dienste betrifft alle mit der Verwaltung von Personal betrauten Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung.
+Im Projekt PVS Bund wurden Konsolidierungsmöglichkeiten der bestehenden Personalverwaltungssysteme, die derzeit im Einsatz sind, ermittelt und werden im Rahmen der Feinkonzeption (Start 2017) weiterverfolgt. Hierzu werden derzeit detaillierte Planungen vorbereitet, diese sind jedoch noch nicht abgestimmt.

@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-01
+
+Titel:
+Einhaltung der Architekturvorgaben
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9001
+
+Revision:
+01
+
+Beschreibung:
+Die beschlossenen Architekturvorgaben müssen innerhalb der unmittelbaren Bundesverwaltung gemäß Geltungsbereich (vgl. Kapitel 2.3 Geltungsbereich und Zielgruppe) eingehalten werden. Es sind insbesondere auch die Grundsätze zur Nutzung der Architekturvorgaben zu berücksichtigen (vgl. Kapitel 5 Nutzung von Architekturvorgaben).
+
+Begründung:
+Die hier formulierten Architekturvorgaben können ihre Wirkung nur dann umfassend entfalten, wenn sie ressortübergreifend angewendet und bei allen wichtigen Entscheidungen der IT-Weiterentwicklung und -Neubeschaffung zugrunde gelegt werden.
+
+Abhängigkeiten:
+Die Einhaltung der Architekturvorgaben ist eng verzahnt mit den Vorgaben ÜBAV-02 und ÜBAV-14.
+
+Implikationen:
+IT-Vorhaben werden frühzeitig auf Konformität mit den Architekturvorgaben geprüft. Bei der Umsetzung von Vorhaben sollen ggf. konfliktäre Zielsetzungen der aufgeführten Vorgaben im Rahmen einer qualifizierten Einschätzung unter Konsultation der IT-Dienstleister abgewogen werden. Zur Umsetzung der Architekturvorgaben sind adäquate Aus- und Weiterbildungsmöglichkeiten sowie eine optimale Informationsbereitstellung sicher zu stellen.

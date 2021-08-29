@@ -1,0 +1,27 @@
+Bezeichner:
+ÜBAV-10
+
+Titel:
+Gewährleistung der Interoperabilität von Diensten
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9009
+
+Revision:
+01
+
+Beschreibung:
+Für die Bereitstellung von Diensten durch unterschiedliche ITDienstleister und in unterschiedlichen Sicherheitsdomänen sollen zur
+Sicherstellung der Interoperabilität erweiterte Regelungen zur Harmonisierung und Standardisierung des Managements, der Prozesse, der Schnittstellen und der Netzwerkinfrastruktur erarbeitet und eingehalten werden. Diese Regelungen sollen auf prozessualer und technischer Ebene so abgestimmt werden, dass für die Ressorts und nachgeordneten Behörden ein einheitlicher und nahtloser Zugang zu den Diensten des Leistungsverbunds gewährleistet ist und Dienste in unterschiedlichen Sicherheitsdomänen interoperabel ausgebracht werden können.
+
+Begründung:
+Die Ressorts sollen sich bei der Konsolidierung ihrer IT nicht als Ganzes, sondern auf Behördenebene, für einen der IT-Dienstleister des Leistungsverbunds entscheiden müssen. Dies bedingt, dass die von einem Ressort in Anspruch genommenen Dienste in der Regel von mehreren Dienstleistern bereitgestellt werden. Die Interoperabilität von Diensten gewährleistet die nahtlose und einheitliche Bereitstellung von Diensten für die Ressorts und deren nachgeordneten Bereichen unabhängig von der Zuordnung zu einem IT-Dienstleister innerhalb des Leistungsverbunds
+
+Abhängigkeiten:
+Es bestehen Abhängigkeiten zu ÜBAV-09, ÜBAV-11, DAAV-06, NVPF-03 und IDAV-01. Diese Vorgaben konkretisieren spezifische Aspekte der Interoperabilität von Diensten hinsichtlich Spezifikation, Schnittstellen und loser Koppelung. Des Weiteren wird dadurch ein aktiver Beitrag zu ÜBAV-13 geleistet.
+
+Implikationen:
+Die erforderlichen Regelungen sind auf prozessualer und technischer Ebene zwischen den IT-Dienstleistern des Leistungsverbunds abzustimmen und umzusetzen. Dies umfasst insbesondere ein übergreifendes Schnittstellenmanagement, wie in NVPF-02 gefordert. Dies sollte bereits in der Entwicklungsphase sichergestellt sein.

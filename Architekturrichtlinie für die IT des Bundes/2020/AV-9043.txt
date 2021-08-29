@@ -1,0 +1,28 @@
+Bezeichner:
+IDAV-04
+
+Titel:
+Einsatz von Standards bei Geodaten und Geodiensten
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9043
+
+Revision:
+01
+
+Beschreibung:
+Bei der Bearbeitung von Daten, die einen räumlichen Bezug aufweisen (Geodaten), sollen einheitliche Standards im Geoinformationswesen gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.2.4 und 2.3.7 verwendet werden.
+
+Begründung:
+Fast alle Behörden arbeiten mit Daten, die einen räumlichen Bezug aufweisen (Geodaten).
+Das Architekturkonzept der GDI-DE stellt insbesondere unter Beachtung der im Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.2.4 dargestellten gesetzlichen Pflichten sicher, dass gängige Standards im Geoinformationswesen einheitlich und kompatibel innerhalb der Verwaltung in Deutschland angewendet werden können.
+
+Abhängigkeiten:
+Keine Abhängigkeiten vorhanden.
+
+Implikationen:
+Für eine Nutzung von Geodaten und Geodatendiensten sind u. U. Änderungen bei den Einstellungen in Grundanwendungen wie z. B. im Browser notwendig.
+Eine Nichtumsetzung der verbindlichen Vorgaben aus den europäischen INSPIRE-Regelungen kann zu einem Vertragsverletzungsverfahren seitens der Europäischen Kommission gegenüber der Bundesrepublik Deutschland führen.

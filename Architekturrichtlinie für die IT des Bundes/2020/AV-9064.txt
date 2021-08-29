@@ -1,0 +1,32 @@
+Bezeichner:
+NVPF-12
+
+Titel:
+Nutzung der Formularmanagementdienste (IT-Lösung Formular-Management-System FMS)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9064
+
+Revision:
+01
+
+Beschreibung:
+Die Formularmanagementdienste sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Die Verwendung eines einheitlichen Formularmanagements erleichtert den Austausch und die Wiederverwendung von Formularen zwischen den Ressorts. Darüber hinaus kann die Weiterentwicklung des Formularwesens auf diese Weise zentral und somit kostengünstiger erfolgen.
+
+Abhängigkeiten:
+Für die Dienste ist eine Anbindung an die E-Akte (NVPF-013) geplant, womit die weitere Bearbeitung der erfassten Daten gewährleistet wird. Der Dienst ist über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Bei Einsatz des FMS für die Bereitstellung von Online-Formularen in Portalen und mobil, muss die nutzende Behörde das FMS in ihren Interund/oder Intranetauftritt integrieren.
+Für eine Nutzung der über die Online-Formulare erfassten Informationen in weiteren Bearbeitungsprozessen (z. B. auf Basis einer E-Akte) muss die nutzende Behörde die Daten in ihre Prozesse integrieren.
+Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+Laufende Weiterentwicklungen von FMS sehen vor, das System dahingehend zu erweitern, dass die Formulare auch in Portalen und auf mobilen Endgeräten nutzbar sind. Darüber hinaus enthält FMS heute auch eine Workflowkomponente, die für die weitere Bearbeitung der über Formulare eingehenden Anträge sorgt. Diese Komponente ist nicht Gegenstand dieser Richtlinie.
+Der Anwendungsbereich des FMS betrifft alle mit der Erstellung und Bereitstellung von Formularen für Bürgerinnen und Bürger und Unternehmen betrauten Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung.
+Das FMS ist verfügbar und im Einsatz. Für die Nutzung müssen die jeweiligen Behörden sich mit dem Diensteanbieter abstimmen.
+Eine Maßnahme zur Weiterentwicklung ist Bestandteil des IT-Rahmenkonzeptes Bund.

@@ -1,0 +1,44 @@
+Bezeichner:
+ÜBAV-09
+
+Titel:
+Sicherstellung der Herstellerunabhängigkeit
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9008
+
+Revision:
+01
+
+Beschreibung:
+IT-Lösungen sollen derart gestaltet werden, dass eine realisierte IT-Unterstützung nicht nur durch einen einzigen Hersteller erbracht werden kann bzw. nur ein einziges IT-Produkt in Frage kommt (Verfolgung einer Dual- bzw. Multi-Vendor-Strategie).  Um dies zu gewährleisten, sollen IT-Lösungen gem. Europäischer Interoperabilitätsrahmen (COM/2017/0134), soweit sinnvoll und wirtschaftlich, herstellerunabhängige/(quell-)offene Standards und Technologien nutzen. Dies betrifft sowohl die Beschaffung von Standardlösungen als auch die Entwicklung von Individuallösungen und die Implementierung von Schnittstellen zwischen den IT-Lösungen.
+Insbesondere für Austauschformate gelten folgende
+Mindestanforderungen an die Offenheit als Leitlinie:
+ Die Spezifikation wurde vollständig publiziert und die Publikation ist entweder kostenfrei oder gegen ein angemessenes Entgelt erhältlich.
+ Die Verwendung der Spezifikation ist für Hersteller und Nutzerinnen und Nutzer der Software-Systeme uneingeschränkt und kostenfrei möglich.
+ Zum Zeitpunkt der Bewertung ist nicht erkennbar, dass die Spezifikation in Zukunft die vorherstehenden Anforderungen nicht mehr erfüllen wird.
+
+Begründung:
+Herstellerunabhängigkeit ist gerade für die öffentliche Verwaltung ein wesentliches IT-architektonisches Leitprinzip zur Sicherstellung architektonischer Flexibilität, Gestaltungs- und Handlungshoheit und Vermeidung von Abhängigkeitsverhältnissen zu einzelnen Herstellern ("Herstellermonopole").
+Solche Abhängigkeitsbeziehungen zu einzelnen Anbietern führen z. B. zu
+ eingeschränkten Mitspracherechten seitens des Bundes hinsichtlich geschäftlicher Konditionen und technischer Umsetzungen (z. B. der Zwang, Nutzungsdaten an den Hersteller zu übermitteln),
+ potenziell höheren Kosten bei der Beschaffung von IT-Produkten und der Beeinträchtigung des Prinzips der Wirtschaftlichkeit (z. B. durch das Risiko ungünstiger Lizenzbedingungen für den Bund),
+ Risiken für den IT-Betrieb (z. B. durch das Kündigen des Supports durch den Hersteller),
+ einer Erhöhung der Systemkomplexität durch Vorhalten funktionsähnlicher IT-Produkte unterschiedlicher Hersteller zur Erbringung einer konkreten Leistung,
+ einer schlechteren Verhandlungsbasis und Verringerung der Innovationsfähigkeit durch das Entstehen von „Lock-in-Effekten“.
+IT-Lösungen sollen daher nicht an bestimmte herstellerspezifische Funktionen, Austauschformate oder an spezielle HardwareTechnologien/-Plattformen individueller Hersteller gebunden sein, solange diese nicht explizit notwendig sind. Insbesondere für Fachanwendungen können definierte Ausnahmen hiervon begründet sein (vgl. Kapitel 2.3 Geltungsbereich und Zielgruppe).
+Falls die Bundesverwaltung nicht in der Lage wäre, kurz- bzw. mittelfristig auf ein anderes IT-Produkt (ggf. auch das eines anderen Herstellers) auszuweichen, könnte dies in letzter Konsequenz die effiziente Erbringung hoheitlicher Aufgaben beeinträchtigen. Daher ist auch im Sinne der digitalen Souveränität der deutschen Verwaltung eine langfristige Abhängigkeit von einzelnen Herstellern zu vermeiden.
+
+Abhängigkeiten:
+Diese Vorgabe steht in direktem Zusammenhang mit ÜBAV-10, ÜBAV-11 und ÜBAV-15. Die vorgenannten Vorgaben begünstigen die Anbindung und Interoperabilität verschiedener IT-Lösungen und fördern somit eine Herstellerunabhängigkeit i. S. der Vermeidung von Abhängigkeiten zu einzelnen Herstellern sowie Sicherstellung der Flexibilität i. d. S., dass Hersteller und deren IT-Produkte bedarfsbezogen getauscht werden können. Im Anhang „Technische Spezifikationen zur Architekturrichtlinie“ sind Standards zum Einsatz von  Programmiersprachen und Entwicklungsumgebungen für die serverseitige Softwareentwicklung aufgeführt. Zudem sind die Vorgaben des Vergaberechts, insbesondere der Grundsatz der produktneutralen Beschaffung, (vgl. § 31 Abs. 6 VgV) zu berücksichtigen.
+
+Implikationen:
+Die Sicherstellung der Herstellerunabhängigkeit erfordert eine Verankerung in strategische, prozessuale und technische Strukturen des Bundes.
+Auf strategischer Ebene sind klare Leitlinien zu entwickeln, was unter Herstellerunabhängigkeit zu verstehen ist. Hier ist insbesondere auch festzulegen, wie mit einzelnen Ausnahmen (i. S. einer „bewussten Herstellerabhängigkeit“) umzugehen ist.
+Auf technischer Ebene erfordert die Herstellerunabhängigkeit klare Leitlinien hinsichtlich zu nutzender Standards für die Entwicklung und den Einsatz von IT-Lösungen. Diese Standards sind übergreifend festzulegen und in den Produktkatalogen der IT-Dienstleister zu detaillieren.
+Die Vermeidung von Herstellermonopolen und damit potenziell verbundener Lock-In Effekte ist integraler Bestandteil bei der Definition des Leistungskatalogs zwischen IT-Dienstleistern und Ressorts (i. S. von Kunden/Bedarfsträgern) und der individuell zu entscheidenden Aufnahme von IT-Produkten in diesen Katalog.
+Die Gewährleistung der Herstellerunabhängigkeit kann einen hohen Implementierungsaufwand – und damit die Entstehung von Mehrkosten – durch den Verzicht von einzelnen herstellerabhängigen Funktionen nach sich ziehen. Darüber hinaus können weitere Risiken durch die Nutzung von Schnittstellen zwischen verschiedenen Komponenten entstehen.
+Zudem ist nicht auszuschließen, dass durch eine bewusste Fokussierung auf einzelne Hersteller, i. S. von spezifischen Anwendungsfällen (z. B. hinsichtlich der strategischen Mitgestaltungsmöglichkeit technischer Weiterentwicklungen von IT-Lösungen), eine positive Wirkung erzielt werden kann.

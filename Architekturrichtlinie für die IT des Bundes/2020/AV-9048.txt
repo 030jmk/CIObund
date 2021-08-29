@@ -1,0 +1,28 @@
+Bezeichner:
+ISAV-05
+
+Titel:
+Separierung/Segmentierung/Mandantentrennung
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9048
+
+Revision:
+01
+
+Beschreibung:
+Beim Betrieb von IT-Verfahren für unterschiedliche Nutzerbehörden in einer zusammenhängenden – insbesondere virtualisierten – IT-Umgebung sollen die Grundsätze der Separierung/Mandantentrennung beachtet werden
+Gemäß BSI-Standard 200-2 muss bei einem hohen Schutzbedarf durch eine Risikoanalyse festgelegt werden, ob eine logische Separierung/Mandantentrennung ausreichend ist oder zwingend eine physische Separierung umgesetzt werden muss. An der Entscheidungsfindung soll das BSI angemessen beteiligt werden.
+
+Begründung:
+Separierung/Mandantentrennung ist ein wichtiges Element, um komplexen Angriffen in einer gemeinsam genutzten IT-Umgebung zu begegnen.
+
+Abhängigkeiten:
+Es gelten die einschlägigen Cyber-Sicherheits-Empfehlungen des BSI als Empfehlung.
+Zudem ist der IT-Grundschutz-Baustein NET.1. für "Netzarchitektur und –design", insbesondere hinsichtlich der Anforderungen zu physikalischer und logischer Segmentierung und Separierung zu beachten. Zusätzliche Hinweise finden sich in den Veröffentlichungen der ISi-Reihe des BSI zum Thema "Sichere Anbindung von lokalen Netzen an das Internet (ISiLANA)"
+
+Implikationen:
+Bei übergreifend konzipierten IT-Verfahren ist bereits zum Zeitpunkt der Konzeption eine Separierung/Mandantentrennung nach Anforderungen der Nutzerbehörde zu berücksichtigen.

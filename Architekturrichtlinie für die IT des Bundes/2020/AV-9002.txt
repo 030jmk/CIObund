@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-02
+
+Titel:
+Frühzeitige und vollständige Berücksichtigung der rechtlichen Rahmenbedingungen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9002
+
+Revision:
+01
+
+Beschreibung:
+Bei der Wahl der IT-Lösungen der Bundesverwaltung und ihrer Dienstleister müssen alle rechtlichen Vorgaben aus dem nationalen und internationalen Umfeld und ähnliche Rahmenbedingungen berücksichtigt werden.
+
+Begründung:
+Die Bundesverwaltung ist in ihrer Gesamtheit verpflichtet, jederzeit alle für sie geltenden Gesetze und Verwaltungsvorschriften zu befolgen.
+
+Abhängigkeiten:
+Alle Architekturvorgaben haben auch in ihrer Fortschreibung die sich ändernden rechtlichen Rahmenbedingungen zu berücksichtigen. Sich hieraus ergebende Inkompatibilitäten sind frühestmöglich zu bereinigen. Insbesondere die Vorgabe ÜBAV-05 spezifiziert einige der rechtlichen Rahmenbedingungen.
+
+Implikationen:
+Es ist notwendig, dass die mit der Umsetzung der Richtlinien betrauten Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung die für ihren Tätigkeitsbereich relevanten Gesetze, Verwaltungsvorschriften und Richtlinien sowie die verfolgten Ziele kennen und anwenden.

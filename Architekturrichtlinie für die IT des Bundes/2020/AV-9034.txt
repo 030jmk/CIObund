@@ -1,0 +1,26 @@
+Bezeichner:
+TIAV-05
+
+Titel:
+Cloud Entwicklungsumgebungen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9034
+
+Revision:
+01
+
+Beschreibung:
+Alle cloudbasierten Anwendungsentwicklungen sollen unter Verwendung standardisierter Entwicklungsumgebungen, gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.1.3, durchgeführt werden. Für die Anwendungsentwicklung sollen quelloffene Entwicklungswerkzeuge mit adäquatem Support (Programme, Frameworks, Bibliotheken) verwendet werden.
+
+Begründung:
+Durch die Verwendung standardisierter Cloud Entwicklungsumgebungen wird die Herstellerabhängigkeit reduziert, interne und externe Entwickler können koordiniert werden. Des Weiteren bleibt die Hoheit über die Anwendungen für den Auftraggeber ebenso erhalten wie die Offenheit für moderne Entwicklungsansätzen wie zum Beispiel agile Vorgehensweisen, Lean Management und DevOps. Ein hoher Grad an Automatisierung soll die Qualität der Entwicklungen zusätzlich fördern.
+
+Abhängigkeiten:
+Diese Richtlinie erfordert TIAV-01 (Verfolgung des Cloud-First-Ansatzes) als Grundlage
+
+Implikationen:
+Die IT-Dienstleister des Bundes stellen in deren Standardkatalogen Empfehlungen von offenen Elementen, Entwicklungswerkzeugen, Bibliotheken und Standards vor. Die Kataloge sind bei den IT-Dienstleistern über den Leistungsverbund zu beziehen.

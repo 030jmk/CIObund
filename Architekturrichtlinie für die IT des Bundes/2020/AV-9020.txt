@@ -1,0 +1,62 @@
+Bezeichner:
+DAAV-02
+
+Titel:
+Nutzung und Leistung in der Domäne E-Government (EGOV)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9020
+
+Revision:
+02
+
+Beschreibung:
+Die Dienste der Domäne E-Government sollen gemäß Architekturvorgabe DAAV-01 „Nutzungsverpflichtung“ genutzt werden.
+Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung (KoITB Nr. 2018/3, Version 2019 als schriftliche Information zur 14. KoITB am 28. März 2019) [Nutzungsverpflichtung].
+Die Dienste umsetzenden IT-Maßnahmen sind im IT-Rahmenkonzept des Bundes (Haushaltsjahr 2021, KoITB Nr. 13/2019 vom 04. Dezember 2019) aufgeführt
+Die die Dienste realisierenden IT-Lösungen/ Produkte sind im Produktkatalog des Verbundes der IT-Dienstleister (Version 3.0 als schriftliche Information zur 14. KoITB am 28. März 2019) aufgeführt [Leistungsverpflichtung].
+|Dienst [Nutzung]|IT-Maßnahme|Produkt/IT-Lösung [Leistung]|
+|---|---|---|
+|Auktionsmanagement|keine (Bestand)|Zoll-Auktion|
+|Veräußerunginformationsbereitstellung|keine (Bestand)|Zoll-Auktion|
+|Content-Management|GSB|GSB|
+|E-GovernmentIdentity-Management|Nutzerkonto|Nutzerkonto|
+|Datensafe|Nutzerkonto|Nutzerkonto|
+|Postfach|Nutzerkonto|Nutzerkonto|
+|Integration|Verwaltungsportal|Verwaltungsportal|
+|Portalmanagement|Verwaltungsportal|Verwaltungsportal|
+|Suche|Verwaltungsportal|Verwaltungsportal|
+|Ausschreibungsinformationsbereitstellung|Verwaltungsportal, bund.de|Verwaltungsportal, bund.de|
+|Behördenzuständigkeitinformationsbereitstellung|Verwaltungsportal, bund.de|Verwaltungsportal, bund.de|
+|Beschäftigunginformationsbereitstellung|Verwaltungsportal, bund.de|Verwaltungsportal, bund.de|
+|Geoinformationsbereitstellung|Geodaten|GIS, GeoDB|
+|Formularbereitstellung|FMS|FMS|
+|Formulardatenabruf|FMS|FMS|
+|Formularerstellung|FMS|FMS|
+|Bezahlplattform|E-Payment|ePayment Bund|
+|Webshop|E-Payment|ePayment Bund|
+|Chatbot|Chatbot|noch keins|
+|E-Partizipation|E-Partizipation|noch keins|
+|Mobile Apps-Management|MobileApps|noch keins|
+|OpenData-Informationsbereitstellung|Open Data|noch keins|
+|OpenData-Hochlade-Abruf|Open Data|noch keins|
+|Datenaustausch|noch keine|noch keins|
+|E-Petitionsmanagement|noch keine|noch keins|
+|E-Wahlmanagement|noch keine|noch keins|
+|Social Media|noch keine|noch keins|
+
+Begründung:
+Die Nutzung gemeinsamer Basis-, Querschnitts- und Infrastrukturdienste dient der Harmonisierung und Konsolidierung der IT des Bundes. Weiterhin dürfen bei Basis-, Querschnitts- und Infrastrukturdiensten maximal zwei parallele IT-Lösungen entstehen.
+
+Abhängigkeiten:
+Diese Architekturvorgabe hat übergreifende Bedeutung für alle Architekturvorgaben, die den funktionalen Umfang und Anwendungsbereich eines Dienstes der Dienstekonsolidierung in der Domäne E-Government festlegen.
+
+Implikationen:
+Behörden planen für die Funktionalität eines Dienstes der Dienstekonsolidierung in der Domäne E-Government bei Vorliegen
+ eines Dienstesteckbriefes langfristig (ca. in den nächsten 10 Jahren),
+ einer IT-Maßnahme mittelfristig (ca. in den nächsten 5 Jahren) und
+ eines Produktes kurzfristig (ca. in den nächsten 2 Jahren)
+mit der Ablösung ihrer IT der gleichen Funktionalität. Die Behörden nehmen im jeweiligen Planungshorizont nur die zulässigen Investitionen vor. Grundsätzliche Planungen und Zeitpunkte zur Verpflichtung ergeben sich für IT-Maßnahmen aus dem IT-Rahmenkonzept und für Produkte/ IT-Lösungen aus dem Produktkatalog. Die Behörden stimmen sich mit den IT-Maßnahmen und den IT-Dienstleistern bezüglich des individuellen Rollouts, der Migration sowie der Leistungserbringung ab.

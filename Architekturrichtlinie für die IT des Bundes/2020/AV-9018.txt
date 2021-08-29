@@ -1,0 +1,35 @@
+Bezeichner:
+GSAV-04
+
+Titel:
+Nutzung geeigneter Austauschformate für den Austausch von Prozessmodellen
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9018
+
+Revision:
+01
+
+Beschreibung:
+Für den Austausch von Prozessmodellen müssen folgende
+Austauschformate genutzt werden:
+ Business Process Modeling Language (BPML):
+BPML ist eine XML-basierte plattformunabhängige Metasprache zur Beschreibung von Geschäftsprozessmodellen (BPMN).
+ XML Process Definition Language (XPDL) 2.1:
+XPDL ist innerhalb des Workflow-Managements eine XML basierte Sprache zur Beschreibung von Geschäftsprozessen, genauer Arbeitsabläufen (BPMN).
+ Event-Driven-Process-Chain-Markup-Language (EPML):
+EPML ist ein XML-Schema für EPKs.
+ XProzess 2.0:
+XML-basierter XÖV-Standard zum Austausch von Prozesskatalogen (Ordnungsrahmen für Prozesse) sowie von Prozessen (Prozesssteckbriefe und Prozessmodelle) zwischen Austauschplattformen oder Prozessmodellierungswerkzeugen (Editoren und Prozessrepositorys).
+
+Begründung:
+Um einen reibungslosen Austausch von Prozessmodellen über verschiedene Nutzerinnen und Nutzer, Tools und Behörden zu ermöglichen, ist es notwendig, Austauschformate zu definieren. Durch die Nutzung von einheitlichen, offenen Austauschformaten können Prozessmodelle ohne Abhängigkeiten zu Herstellern oder Technologien ausgetauscht werden.
+
+Abhängigkeiten:
+Diese Vorgabe erweitert die Vorgabe GSAV-03.
+
+Implikationen:
+Die genutzten IT-Tools müssen die entsprechenden Austauschformate unterstützen und geeignete Schnittstellen bereitstellen. Da bis 2025 in den von der IT-Konsolidierung betroffenen Bereichen von den zentralen ITDienstleistern nur noch maximal zwei Basisdienste bzw. Querschnittsdienste bereitgestellt werden sollen, enthält das ITRahmenkonzept 2019 das Projekt "Prozessmanagementtool".

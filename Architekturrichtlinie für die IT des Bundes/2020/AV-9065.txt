@@ -1,0 +1,37 @@
+Bezeichner:
+NVPF-13
+
+Titel:
+Nutzung des Content-Management-Dienstes (IT-Lösung Government Site Builder GSB)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9065
+
+Revision:
+01
+
+Beschreibung:
+Der Content-Management-Dienst soll gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung.
+
+Begründung:
+Mit dem Kabinettbeschluss zur E-Government-Infrastruktur (März 2005) ist die Nutzung des GSB für die Einrichtungen der Bundesverwaltung verpflichtend.
+
+Abhängigkeiten:
+Der GSB ist Grundlage von vielen webbasierten Lösungen der Bundesbehörden unter anderem auch des Portals des Bundes "bund.de" (NVPF-17)
+Auch das geplante Verwaltungsportal des Bundes (NVPF-14) wird als ein Mandant des GSB aufgebaut.
+Der Dienst ist über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Werden Änderungen an den zentralen GSB-Komponenten durchgeführt, ist zu prüfen, ob es Anpassungsbedarf an den Komponenten der auf Basis des GSB erstellten Lösungen gibt.
+Dabei müssen die folgenden Architekturvorgaben bei Einsatz des GSB eingehalten werden:
+ Abgesicherter PC-Client Arbeitsplatz nach BSI-Empfehlung
+ Individuelle Betriebsplattform mit den jeweils durch den GSB unterstützten Betriebskomponenten und –systemen (LINUX auf x86-Hardware)
+ Breitbandiger Anschluss des Rechenzentrums an das sichere Verwaltungsnetz und ggf. Internet
+Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+Der GSB wurde im Rahmen von BundOnline als Basiskomponente entwickelt. Der GSB ist mandantenfähig, entspricht den Anforderungen an die Barrierefreiheit und bietet ein konfigurierbares Layout, das sich am Internet-Styleguide der Bundesregierung orientiert.
+Der Anwendungsbereich des GSB betrifft alle mit der Erstellung und Bereitstellung von Internet-, Intranet- sowie Extranet-Seiten betrauten Mitarbeiter der Bundesverwaltung.
+Der GSB ist verfügbar und im Einsatz. Für die Nutzung müssen die jeweiligen Behörden sich mit dem Diensteanbieter abstimmen.
+Eine Maßnahme zur Weiterentwicklung ist Bestandteil des IT-Rahmenkonzeptes Bund.

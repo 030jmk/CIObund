@@ -1,0 +1,26 @@
+Bezeichner:
+ISAV-08
+
+Titel:
+Sicheres Cloud-Computing
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9051
+
+Revision:
+02
+
+Beschreibung:
+Für alle durch die Bundesverwaltung genutzten und mitgenutzten externen Cloud-Dienste müssen die Anforderungen der einschlägigen Mindeststandards und IT-Grundschutz-Anforderungen des BSI eingehalten werden.
+
+Begründung:
+Notwendiger Bestandteil des ISM.
+
+Abhängigkeiten:
+Die jeweils gültigen BSI-Mindeststandards "Nutzung externe Clouddienste" und "Mitnutzung externe Clouddienste", sowie die Anforderungen aus dem IT-Grundschutz-Baustein OPS.2.2 „CloudNutzung“ und ergänzende BSI-Veröffentlichungen wie der Kriterienkatalog Cloud-Computing (C 5) sind zu berücksichtigen.
+
+Implikationen:
+Bereits bei der Entwicklung von Cloud-basierten IT-Verfahren müssen die BSI-Vorgaben berücksichtigt werden.

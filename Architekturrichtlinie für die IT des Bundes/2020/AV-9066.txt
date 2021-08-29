@@ -1,0 +1,40 @@
+Bezeichner:
+NVPF-14
+
+Titel:
+Nutzung der E-Government-Informationsbereitstellungsdienste (IT-Lösung service.bund.de)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9066
+
+Revision:
+01
+
+Beschreibung:
+Die E-Government-Informationsbereitstellungsdienste sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Nach dem Kabinettsbeschluss "Langfristige Sicherung der im Rahmen der eGovernment Initiative BundOnline 2005 getätigten Investitionen" ist diese Plattform für die im Funktionsumfang adressierten Inhalte zu nutzen.
+Durch Anlieferung der Inhalte über die Schnittstelle kann die Übernahme automatisiert oder durch eine Nutzerführung erfolgen. Prüfungen zur Einhaltung von Formaten werden erleichtert.
+
+Abhängigkeiten:
+Inhalte von bund.de überdecken sich teilweise mit den geplanten Inhalten des "Verwaltungsportals des Bundes" (NVPF-16). Wie diese beiden Maßnahmen zueinander positioniert werden, ist Gegenstand noch laufender Konzeptionsarbeiten.
+Bund.de besteht aus einem Mandanten des Government Site Builder (NVPF-13) und speziell für die Massendatenverarbeitung entwickelten Komponenten (Importer-/Newsletterkomponenten), die alle in der GSBHosting-Plattform betrieben und bedarfsgerecht weiterentwickelt werden. Dementsprechend gelten auch die Abhängigkeiten gemäß NVPF-13 für bund.de.
+Für die Zulieferung bestehen Abhängigkeiten zu den anliefernden Systemen.
+
+Implikationen:
+Die zuliefernden Behörden müssen die sicherheits- und betriebstechnischen Voraussetzungen zur Nutzung der Schnittstelle gewährleisten/erfüllen (siehe auch Technischer Anhang).
+Änderungen in den Leistungsangeboten für Ausschreibungen und Stellenangebote können Änderungen der XML-Schemata bedeuten. Zuliefernde Behörden müssen die technischen Änderungen bezüglich ihrer Zulieferungen nachvollziehen.
+Bund.de wurde als Basiskomponente zur zentralen und einheitlichen Veröffentlichung übergeordneter Belange der Bundesbehörden entwickelt.
+Das Portal wurde so konzipiert, dass auch darüberhinausgehende übergeordnete Publikationsanforderungen für die Zielgruppe Bürgerinnen und Bürger und Unternehmen in das Portal integriert werden können.
+Der Aufbau eines abweichenden Portals für die beschriebenen Inhalte ist nicht zugelassen.
+bund.de bietet wegen des hohen Änderungs- und Aktualisierungsbedarfs an Inhalten für Ausschreibungen und Stellenangebote die zwei Schnittstellen
+ Webeditor und
+ FTP-Upload
+an. Über einen speziell entwickelten Webeditor kann die ausschreibende Stelle ihre Ausschreibungen beziehungsweise Stellenangebote auf bund.de einstellen und pflegen und behält so jederzeit die Kontrolle über die veröffentlichten Angebote. Wenn mehr als 250 Ausschreibungen oder Stellenangebote pro Jahr auf dem Portal eingestellt werden sollen, handelt es sich in der Regel um Inhalte eines (z. B. regionalen oder fachspezifischen) Portals. Diese Inhalte können automatisiert über die XML-Schnittstelle mit FTP-Upload in bund.de importiert werden.
+Der Anwendungsbereich der Dienste betrifft alle mit der übergeordneten zentralen Bereitstellung von Inhalten betrauten Mitarbeiter der Bundesverwaltung.
+bund.de ist verfügbar und im Einsatz. Für die Nutzung müssen die jeweiligen Behörden sich mit der Redaktion bund.de (BVA VMI6) abstimmen.
+Eine IT-Maßnahme zur Weiterentwicklung ist Bestandteil des IT-Rahmenkonzeptes Bund.

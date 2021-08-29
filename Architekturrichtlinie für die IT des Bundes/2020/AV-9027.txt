@@ -1,0 +1,35 @@
+Bezeichner:
+DAAV-09
+
+Titel:
+Entkopplung der Dienste vom Bundesclient
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9027
+
+Revision:
+01
+
+Beschreibung:
+Fach-, Querschnitts- und Basisdienste sollen vom Bundesclient entkoppelt sein.
+Entkoppelt bedeutet in diesem Zusammenhang, dass Fach-, Querschnitts- und Basisdienste keine zwingenden Abhängigkeiten zu
+ spezifischen Laufzeitumgebungen oder
+ Software-Komponenten
+des Bundesclients haben sollen.
+Die Bereitstellung von Diensten soll serverbasiert erfolgen. Der Zugriff und die Nutzung von Fach-, Querschnitts- und Basisdiensten sollte über den Webbrowser erfolgen
+Eine clientseitige Bereitstellung von Integrationspunkten an standardisierte Schnittstellen kann im Einzelfall erfolgen. Bei der Bereitstellung von Integrationspunkten ist
+ die clientseitige Programmlogik möglichst klein zu halten und
+ der Weiterentwicklungsbedarf bei Änderungen des Bundesclients zu planen und zu budgetieren
+Diese Anforderung gilt für alle Dienste unabhängig von der tatsächlichen oder geplanten Nutzung des Bundesclients, die weiterentwickelt oder neu erstellt werden
+
+Begründung:
+Der Bundesclient kann nur dann eine weitgehend einheitliche Basis für die unmittelbare Bundesverwaltung darstellen, wenn die Abhängigkeiten zu Diensten für den Bundesclient reduziert und perspektivisch möglichst ganz abgebaut werden. Damit werden Effizienz- und Standardisierungsvorteile realisiert.
+
+Abhängigkeiten:
+Insbesondere bestehen Abhängigkeiten zum Übergang der Dienste in die Bundescloud. Für die aktuellen Fach-, Querschnitts- und Basisdienste ist die dargestellte Entkopplung zu prüfen, damit sie unter dieser Vorgabe weiterhin ohne großen Aufwand aufseiten der Dienstleister im Bundesclient nutzbar sind. Die Nutzung offener und standardisierter Webtechnologien ist in TIAS-17 im Kapitel 2.1.4 des Anhangs "Technische Spezifikationen zur Architekturrichtlinie" definiert.
+
+Implikationen:
+Entwicklungs- und Beschaffungsvorhaben müssen sich an den Schnittstellen des Bundesclients und den verfügbaren Diensten orientieren. Insbesondere müssen die Richtlinien des Bundesclients und der Dienste bei der Entwicklung berücksichtigt werden.

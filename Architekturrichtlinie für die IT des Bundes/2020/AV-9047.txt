@@ -1,0 +1,28 @@
+Bezeichner:
+ISAV-04
+
+Titel:
+Einsatz kryptografischer Verfahren
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9047
+
+Revision:
+01
+
+Beschreibung:
+Es müssen für alle betriebenen IT-Verfahren auf Grundlage des festgestellten Schutzbedarfs die aktuell zugelassenen kryptografischen Verfahren nach dem Stand der Technik eingesetzt werden
+
+Begründung:
+Kryptografische Verfahren sind ein zentrales Instrument, um die Schutzziele "Vertraulichkeit" und "Integrität" der verarbeiteten Informationen angemessen und wirksam sicherzustellen.
+
+Abhängigkeiten:
+Zu berücksichtigen sind hierzu die Technischen Richtlinien 02102-1 - 4 (Kryptographische Verfahren) und 03116-X (Kryptographische Vorgaben für Projekte der Bundesregierung) des BSI. Beim Einsatz von Transport Layer Security (TLS) ist der Mindeststandard MSO.APP.TLS des BSI zu beachten
+Für den Bereich des BMVg sind – abhängig vom Anwendungsfall – ggf. NATO-Vorschriften zu beachten.
+Für bestimmte IT-Verfahren ist eine Verschlüsselung auch nach der DSGVO und der VSA vorgeschrieben
+
+Implikationen:
+Die für IT-Verfahren umgesetzten kryptographischen Verfahren sind stets unter Beachtung der Technischen Richtlinien des BSI auf dem aktuellen Stand der Technik zu halten. Die Konzeption muss turnusmäßig überprüft werden.

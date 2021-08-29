@@ -1,0 +1,45 @@
+Bezeichner:
+NVPF-06
+
+Titel:
+Nutzung der Clientdienste (IT-Lösung Bundesclient)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9058
+
+Revision:
+01
+
+Beschreibung:
+Die Clientdienste sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+Der Bundesclient ist als der zukünftige verbindliche Standard-Client für alle Arbeitsplätze und Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung zu konzipieren. Der Bundesclient beinhaltet den Basisclient als einheitliche Grundinstallation für alle Behörden. Er umfasst Betriebssystem inklusive integrierter System- und Basissoftware und optional zubuchbare Software aus definiertem Softwarekatalog.
+Software, die weder über das Portfolio der Standardsoftware noch der optionalen Software in den Bundesclient integriert werden kann, wird auf  Basis von Anwendungsvirtualisierung oder gehosteten Applikationen (sofern die Software dies unterstützt) bereitgestellt.
+Die Erweiterung und Aktualisierung des Bundesclients inklusive Hardware, Betriebssystem und Softwareportfolio erfolgt für alle Nutzerinnen und Nutzer und Behörden nach Prüfung und Qualitätssicherung durch die IT-Dienstleister des Leistungsverbundes. Erweiterungsanfragen können durch die Nutzerinnen und Nutzer über die organisatorischen Schnittstellen eingereicht werden, die im Rahmen des Konzeptes IT-Steuerung Bund erarbeitet werden
+
+Begründung:
+Ein zentraler Betrieb der in der Bundesverwaltung eingesetzten Clients kann nur auf Basis von weitgehender Standardisierung erfolgen. Das gilt sowohl für die Beschaffung als auch für die Administration.
+
+Abhängigkeiten:
+Es besteht eine starke Abhängigkeit zu der Bundescloud (NVPF-07), sowie den Möglichkeiten der Anwendungsvirtualisierung, damit Dienste vom Client entkoppelt werden können.
+Die Bereitstellung und auch Nutzung des Bundesclients mit all seinen Funktionalitäten erfolgt über ein sicheres Verwaltungsnetz (z. B. NdB).
+Es bestehen zudem erhebliche Abhängigkeiten zu Beschaffungsprozessen in der unmittelbaren Bundesverwaltung. Des Weiteren bestehen erhebliche Abhängigkeiten zu der gesamten Betriebsorganisation der ITDienstleister. Hard- und Software, ggf. auch Druckumgebung wird durch die IT-Dienstleister bereitgestellt und administriert. Ein abgesicherter Zugriff durch den Flächenservice der IT-Dienstleister auf die Nutzerlokationen muss möglich sein.
+Es bestehen des Weiteren Abhängigkeiten zu Vorgaben zur Informationssicherheit insbesondere durch das BSI. Im Rahmen der aktuellen Bewertung und der technischen Entwicklung sind die Vorgaben des Geheimschutzes ebenfalls zu beachten, um die Verarbeitung von VSNfD eingestuften Informationen vorschriftenkonform zu ermöglichen. Analoges gilt für die Vorgaben von KRITIS.
+Der Bundesclient hat keine eigenen Autorisierungs- und Authentifizierungsdaten.
+
+Implikationen:
+Die Beschaffungsverfahren der Behörden müssen diese Vorgabe berücksichtigen.
+Funktionale und nicht-funktionale Anforderungen werden als wesentliches Qualitäts- und damit auch Sicherheitsmerkmal im Rahmen des Service-Katalogs des Bundesclients verbindlich gemacht. Enthalten sind hierbei auch die entsprechenden Service Level.
+Behörden, die den Bundesclient nutzen, müssen (soweit technisch unumgänglich für den Betrieb des Bundesclients) Elemente ihrer ITInfrastrukturen inklusive der dazugehörigen Dienste (z. B. Verzeichnisdienst, ggf. E-Mail-Service) an die IT-Dienstleister überführen.
+Neben der technischen Überführung und Sicherstellung der Nutzbarkeit sind allgemeine und informationstechnische organisatorische Maßnahmen notwendig (z. B. Namenskonventionen, PasswortRichtlinien, Mail-Richtlinien, zentrales und dezentrales Betriebspersonal, Betriebsverantwortung).
+Die serverseitige Bereitstellungs- und Managementumgebung des Bundesclients bei den IT-Dienstleistern teilt die verfügbaren und notwendigen Hardwareressourcen zwischen den Nutzerinnen und Nutzern/ Behörden; dedizierte Hardware ist nur im Ausnahmefall möglich.
+Der Bundesclient erlaubt die Verarbeitung von Daten, die als Verschlusssache mit dem Geheimhaltungsgrad VS-NfD eingestuft sind. Als mögliche Clients sind FatClients, ThinClients, Notebooks, Tablets und Smartphones vorgesehen.
+Der Anwendungsbereich des Bundesclients umfasst die gesamte Bundesverwaltung. Er wird für die folgenden Einsatzszenarien vorgehalten:
+ IT-gestützte Verwaltungsarbeit im Büro
+ IT-gestützte Verwaltungsarbeit im Home-Office
+ Mobiles Arbeiten (Notebook, Smartphone, Tablets) online und offline
+ Entwickler-/Administratoren Arbeitsplatz
+ Grafik-/Ressourcenintensiver Arbeitsplatz
+Der Bundesclient befindet sich in Entwicklung. Die IT-Maßnahme Bundesclient bewertet die Erweiterung oder Ausnahme von Arbeitsplätzen gemäß dem Anwendungsbereich im Zuge der Erfassung der Bestandsarbeitsplätze.

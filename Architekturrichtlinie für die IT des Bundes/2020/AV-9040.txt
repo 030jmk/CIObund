@@ -1,0 +1,26 @@
+Bezeichner:
+IDAV-01
+
+Titel:
+Nutzung von einheitlichen und quelloffenen Formaten für den Austausch von Daten und Informationen
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9040
+
+Revision:
+01
+
+Beschreibung:
+Für den Austausch von Daten und Informationen sollen einheitliche und quelloffene Formate gemäß Anhang "Technische Spezifikationen zur Architekturrichtlinie" Kapitel 2.3 verwendet werden.
+
+Begründung:
+Der Einsatz von einheitlichen Austauschformaten erleichtert die Kooperation der Bundesverwaltung. Damit geht eine höhere Effektivität in der Aufgabenerfüllung der Behörden einher.
+
+Abhängigkeiten:
+Diese Vorgabe konkretisiert ÜBAV-09. Es existiert eine Abhängigkeit zu ÜBAV-11. Zudem ist „Quelloffenheit eine maßgebliche Voraussetzung zu Weiter- und Wiederverwendbarkeit (ÜBAV-15).
+
+Implikationen:
+Keine Implikation vorhanden.

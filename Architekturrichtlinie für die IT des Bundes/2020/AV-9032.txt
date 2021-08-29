@@ -1,0 +1,26 @@
+Bezeichner:
+TIAV-03
+
+Titel:
+Betrieb standardisierter Datenbanksysteme
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9032
+
+Revision:
+01
+
+Beschreibung:
+Relationale und nichtrelationale Datenbanksysteme (DBS) sollen die in Anhang „Technische Spezifikationen zur Architekturrichtlinie“ Kapitel 2.1.5 aufgeführten Standards unterstützen.
+
+Begründung:
+Die Standardisierung ermöglicht eine Vereinfachung der Programmierung durch einheitliche Sprache und Reduzierung des Schulungsaufwandes sowie bessere Portierbarkeit bei einem Wechsel des DBS.
+
+Abhängigkeiten:
+Keine Abhängigkeiten vorhanden.
+
+Implikationen:
+Keine Implikationen vorhanden.

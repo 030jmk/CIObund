@@ -1,0 +1,26 @@
+Bezeichner:
+DAAV-11
+
+Titel:
+Sicherstellung einer vollständigen Zugriffssteuerung
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9029
+
+Revision:
+01
+
+Beschreibung:
+Jeder Zugriff auf eine Ressource muss durch das Access Management geschützt sein. Es darf auch für Administratorinnen und Administratoren keine Möglichkeit geben, am Access Management vorbei auf eine Ressource zuzugreifen
+
+Begründung:
+Identity und Access Management muss ganzheitlich gesehen werden und bezogen auf Zugang und Zugriff auf eine Ressource einen durchgängigen Schutz bieten. Dies gilt ebenfalls für privilegierte Identitäten, wie z. B. die Administratorinnen und Administratoren.
+
+Abhängigkeiten:
+Abhängigkeiten bestehen zu allen zu integrierenden Diensten.
+
+Implikationen:
+Selbst wenn nicht die Komponenten des IAM zur Zugriffssteuerung genutzt werden, sondern auf die im jeweiligen Dienst integrierte Access Control Funktionalität zurückgegriffen wird, muss die Einhaltung der Anforderung sichergestellt werden. Entsprechende Prozesse und Maßnahmen sind bezogen auf die Einführung zu definieren (z. B. Penetration Testing der Anwendung oder Code Reviews). 

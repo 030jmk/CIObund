@@ -1,0 +1,51 @@
+Bezeichner:
+DAAV-04
+
+Titel:
+Nutzung und Leistung in der Domäne Elektronische Verwaltungsarbeit (EVA)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9022
+
+Revision:
+02
+
+Beschreibung:
+Die Dienste der Domäne Elektronische Verwaltungsarbeit sollen gemäß Architekturvorgabe „Nutzungsverpflichtung“ genutzt werden.
+Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung (KoITB Nr. 2018/3, Version 2019 als schriftliche Information zur 14. KoITB am 28. März 2019) [Nutzungsverpflichtung].
+Die die Dienste umsetzenden IT-Maßnahmen sind im IT-Rahmenkonzept des Bundes (Haushaltsjahr 2021, KoITB Nr. 13/2019 vom 04. Dezember 2019) aufgeführt.
+Die die Dienste realisierenden IT-Lösungen/ Produkte sind im Produktkatalog des Verbundes der IT-Dienstleister (Version 3.0 als schriftliche Information zur 14. KoITB am 28. März 2019) aufgeführt [Leistungsverpflichtung].
+|Dienst [Nutzung]|IT-Maßnahme|Produkt/IT-Lösung [Leistung]|
+|---|---|---|
+|Aufbewahrung|DZAB|DZAB|
+|Akten- und Dokumentenverwaltung|E-Akte|E-Akte|
+|Gruppenorganisation|SIB, PKP|SIB, PKP, BCBox|
+|Informationskollaboration|SIB, PKP|SIB, PKP|
+|Verwaltungsinformationsbereitstellung|ibib, Evidenz, Digitales Lernen|ibib|
+|Normenbearbeitung|E-Gesetzgebung, eNorm|eGesetzgebung eNorm|
+|Normenprüfung|E-Gesetzgebung, eNorm|eGesetzgebung eNorm|
+|Normsetzungskoordination|E-Gesetzgebung|eGesetzgebung|
+|Abstimmungs- und Kommentierung|E-Gesetzgebung|eGesetzgebung|
+|Prozesssteuerung|E-Gesetzgebung|eGesetzgebung|
+|Normenverkündung|E-Verkündung|noch keins|
+|Prozessmanagement|PMT|noch keins|
+|Entscheidungsunterstützung|Analytics, Evidenz|noch keins|
+|Vernetzung|Analytics, Evidenz|noch keins|
+|Wissenserwerb|Digitales Lernen|noch keins|
+|Sprache / Übersetzung |Übersetzungssystem|noch keins|
+
+Begründung:
+Die Nutzung gemeinsamer Basis-, Querschnitts- und Infrastrukturdienste dient der Harmonisierung und Konsolidierung der IT des Bundes. Weiterhin dürfen bei Basis-, Querschnitts- und Infrastrukturdiensten maximal zwei parallele IT-Lösungen entstehen.
+
+Abhängigkeiten:
+Diese Architekturvorgabe hat übergreifende Bedeutung für alle Architekturvorgaben, die den funktionalen Umfang und Anwendungsbereich eines Dienstes der Dienstekonsolidierung in der Domäne Elektronische Verwaltungsarbeit festlegen.
+
+Implikationen:
+Behörden planen für die Funktionalität eines Dienstes der Dienstekonsolidierung in der Domäne Elektronische Verwaltungsarbeit bei Vorliegen
+ eines Dienstesteckbriefes langfristig (ca. in den nächsten 10 Jahren),
+ einer IT-Maßnahme mittelfristig (ca. in den nächsten 5 Jahren) und
+ eines Produktes kurzfristig (ca. in den nächsten 2 Jahren)
+mit der Ablösung ihrer IT der gleichen Funktionalität. Die Behörden nehmen im jeweiligen Planungshorizont nur die zulässigen Investitionen vor. Grundsätzliche Planungen und Zeitpunkte zur Verpflichtung ergeben sich für IT-Maßnahmen aus dem IT-Rahmenkonzept und für Produkte/IT-Lösungen aus dem Produktkatalog. Die Behörden stimmen sich mit den IT-Maßnahmen und den IT-Dienstleistern bezüglich des individuellen Rollouts, der Migration sowie der Leistungserbringung ab.

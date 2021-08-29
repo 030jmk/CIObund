@@ -1,0 +1,30 @@
+Bezeichner:
+TIAV-01
+
+Titel:
+Verfolgung des Cloud-First-Ansatzes (höchst möglicher Level)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9030
+
+Revision:
+01
+
+Beschreibung:
+IT-Lösungen sollen an die Referenzarchitektur der Bundescloud unter Beachtung der BSI Mindeststandards C5 ausgerichtet werden. Dies umfasst:
+ Infrastructure-as-a-Service (IaaS)
+ Platform-as-a-Service (PaaS)
+ Software-as-a-Service (SaaS)
+Für alle zukünftigen Veränderungen bzgl. der IT der Behörden und Einrichtungen muss geprüft werden, ob sich hierfür Angebote der Bundescloud verwenden lassen. Dies betrifft Angebote auf allen Ebenen der Bundescloud, wobei der höchstmögliche Level (SaaS) anzustreben ist. Der höchstmögliche Level ist abhängig vom Tätigkeitsumfeld der Behörden geeignet zu bestimmen, wobei der Level IaaS mit ungemanagtem Betriebssystem (IaaS) nicht unterschritten werden soll.
+
+Begründung:
+Mit der Umsetzung der Bundescloud wird das Ziel verfolgt, künftig die IT-Lösungen des Bundes mit einer standardisierten Cloud-Technologie zu betreiben. Dabei wird angestrebt, das komplette Produktportfolio cloudfähig zu gestalten und nach dem Modell "Software-as-a-Service" bereitzustellen. Dies ermöglicht eine Standardisierung, verbrauchsgerechte Abrechnung, Automatisierung, Endgeräteunabhängigkeit und Verbesserung der Sicherheit.
+
+Abhängigkeiten:
+Sollten neue Dienste benötigt werden, so ist zu prüfen, ob diese gemäß Architekturvorgabe DAAV-01 in der Bundescloud betrieben werden können. Weiterhin sind für den Einsatz von Cloud Diensten die Vorgabe ISAV-03 und ISAV-05 zu beachten.
+
+Implikationen:
+Durch den Verbund der IT-Dienstleister ist zu definieren, welche Voraussetzungen durch die IT einer Behörde oder Einrichtung zu erfüllen sind, damit der höchstmögliche Level (IaaS, PaaS, SaaS) der Bundescloud genutzt werden kann (siehe Katalog "Dienste der Bundescloud"). Es ist in diesem Zusammenhang die Bereitstellung von IaaS vorrangig durch die IT-Dienstleister zu betreiben. Eine verpflichtende Nutzung der Bundescloud besteht erst dann, wenn die Leistungsfähigkeit der Bundescloud durch die IT-Dienstleister sichergestellt ist. Wenn möglich, sollten durch die Behörden und Einrichtungen die für eine Konsolidierung relevanten Anteile ihrer IT auf virtualisierte Umgebungen umgestellt werden, wenn eine Überführung in die Bundescloud mittelfristig beabsichtigt ist.

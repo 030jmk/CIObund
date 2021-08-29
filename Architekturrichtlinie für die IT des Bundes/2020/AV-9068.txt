@@ -1,0 +1,37 @@
+Bezeichner:
+NVPF-16
+
+Titel:
+Nutzung des Suchdienstes, Portalmanagementdienstes, Integrationsdienstes, E-Government-Identity-Management-Dienstes, Dokumentensafedienstes und Postfachdienstes (IT-Lösung Verwaltungsportal und Nutzerkonto Bund)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9068
+
+Revision:
+01
+
+Beschreibung:
+Der Suchdienst, Portalmanagementdienst, Integrationsdienst, E-Government-Identity-Management-Dienst, Dokumentensafedienst und Postfachdienst sollen gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang der Dienste regeln die entsprechenden Dienstesteckbriefe der Strategie Dienstekonsolidierung.
+
+Begründung:
+Diese Dienste sollen zur Deckung eines etwaigen Bedarfs an dem beschriebenen funktionalen Umfang grundsätzlich für die unmittelbare Bundesverwaltung zur Verfügung stehen.
+
+Abhängigkeiten:
+Die im Funktionsumfang aufgeführten Inhalte überschneiden bzw. decken sich teilweise mit den Inhalten von bund.de (NVPF-14). Wie diese beiden IT-Maßnahmen zueinander positioniert werden, ist Gegenstand laufender Konzeptionsarbeiten und daher noch offen.
+Für das geplante Verwaltungsportal des Bundes ist der Einsatz des Government Site Builders (GSB) (siehe NVPF-13) verpflichtend. Dementsprechend gelten auch die Abhängigkeiten des GSB für das Verwaltungsportal des Bundes.
+
+Implikationen:
+Die Bereitstellung von Informationen zu Verwaltungsdienstleistungen des Bundes und Online-Diensten setzt die Mitarbeit der Bundesbehörden voraus. Das erfordert die Unterstützung der Ressorts auf Leistungsebene.
+Für die Nutzung des Servicekontos zur Authentifizierung muss dieses in die Online-Verfahren der Bundesbehörden integriert werden können.
+Das Verwaltungsportal des Bundes stellt einen zentralen Zugang zu den Verwaltungsdienstleistungen des Bundes dar und bietet
+ Suche nach allen Verwaltungsdienstleistungen in Deutschland gemäß Leistungskatalog,
+ Stammtexte zu allen Verwaltungsdienstleistungen und
+ Verlinkung zu allen Portalen des Portalverbundes.
+Der Aufbau eines abweichenden Bundesportals für die beschriebenen Inhalte ist nicht zugelassen.
+In das Verwaltungsportal des Bundes wird auch eine zentrale Identifizierungskomponente, das Servicekonto des Bundes, integriert. Das Servicekonto ist ein zentraler Benutzer-Account, in dem Bürgerinnen und Bürger und Unternehmen ihre Daten permanent speichern und zur Identifizierung gegenüber Verwaltungsleistungen nutzen können. Im Servicekonto können Daten zur Benutzerin und zum Benutzer sicher abgelegt und für behördliche Vorgänge genutzt werden (z. B. das automatische Befüllen von Online-Formularen).
+Das Servicekonto wird auch eine Postfach-Funktionalität enthalten, über die Behörden Nachrichten an Bürgerinnen und Bürger und Unternehmen versenden können.
+Der Anwendungsbereich der Dienste betrifft alle mit Verwaltungsdienstleistungen betrauten Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung.
+Die Dienste sind in der Konzeptionsphase. Eine initiale Version des Verwaltungsportals wird in 2018 bereitgestellt.

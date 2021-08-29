@@ -1,0 +1,33 @@
+Bezeichner:
+DAAV-12
+
+Titel:
+Verpflichtung zu Standardschnittstellen und -APIs
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9071
+
+Revision:
+01
+
+Beschreibung:
+Für die Verbindung mehrerer Dienste oder IT-Lösungen sollen wenige Schnittstellen und -APIs auf Basis offener Standards (fachlich und technisch) genutzt werden.
+Die verwendeten Schnittstellen und -APIs inklusive etwaiger Abweichungen (alternative individuelle Schnittstellen) sowie die dafür verwendeten offenen Standards müssen in den Architekturen dokumentiert werden.
+
+Begründung:
+Die Komplexität der IT-Landschaft und der Aufwand für das Management steigen mit der Anzahl an IT-Lösungen und Verbindungen zwischen diesen. Zur Minimierung soll die Standardisierung gestärkt werden und die Komplexität kontrolliert gemanagt werden. Für die Ausgestaltung sind die Festlegungen in den Architekturen und für die Standardisierung die verfügbaren Standards in den technischen Vorgaben und technischen Spezifikationen zu verwenden. Die Stärkung der Entkopplung und IT-Sicherheit wird durch eine überschaubare Anzahl an standardisierten Schnittstellen befördert.
+
+Abhängigkeiten:
+ Verwendung von Standards und einheitlichen Methoden (ÜBAV04)
+ Weiterentwicklung der IT-Landschaft anhand von Architekturen (ÜBAV-07)
+ Sicherstellung der Herstellerunabhängigkeit (ÜBAV-09)
+ Gewährleistung der Interoperabilität von Diensten und ITLösungen (ÜBAV-10, ÜBAV-11)
+ Sicherstellung von loser Kopplung/ Modularität (ÜBAV-12)
+ Reduzierung der Komplexität auf ein notwendiges Maß (ÜBAV14)
+ Technologien und Standards gemäß den technischen Vorgaben (TIAV) und technischen Spezifikationen (TIAS)
+
+Implikationen:
+Die Behörden verbinden die in ihrer Hoheit liegenden Dienste oder ITLösungen über die wenigen Standardschnittstellen und -APIs. Individualanbindung müssen begründet, im Architekturmanagement begleitet und gepflegt sowie gesondert beauftragt und finanziert werden. Die Anzahl der bilateralen und individuellen Schnittstellen wird sinken. Die Integrationstiefe wird auf ein in Architekturen definiertes Standardniveau festgelegt.

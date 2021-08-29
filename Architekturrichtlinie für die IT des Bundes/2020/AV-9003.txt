@@ -1,0 +1,28 @@
+Bezeichner:
+ÜBAV-04
+
+Titel:
+Verwendung von Standards und einheitlichen Methoden
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9003
+
+Revision:
+01
+
+Beschreibung:
+Im Zuge der Neu- und Weiterentwicklung der IT sollen (IT-) Standards, standardisierte Konzepte und Methoden auf der Basis definierter Richtlinien (z. B. Standards des BSI ) angewendet werden. Auch  Industriestandards und Vorgehensmodelle wie z. B. NAFTM, V-Modell® XT, Scrum, TOGAF®, ITIL© und COBIT® sollen angepasst eingesetzt werden.
+
+Begründung:
+Standardisierung fördert die Austauschbarkeit von Informationen und Daten (Interoperabilität) sowie von IT-Systemen und IT-Komponenten (Wiederverwendbarkeit). Des Weiteren wird eine höhere Bündelungsfähigkeit bei Beschaffungen unterstützt (Wirtschaftlichkeit).
+In Bezug auf Methoden und Konzepte erlaubt die Standardisierung eine bessere Zusammenarbeit und gemeinsame Abstimmung. Außerdem erleichtert sie die Wartung und ermöglicht eine leichtere und bessere Qualifikation von Fachkräften.
+
+Abhängigkeiten:
+Grundsätzlich ist eine Standardlösung in allen Bereichen einer individuellen Lösung vorzuziehen, sofern dieses unter Wirtschaftlichkeits- und Sicherheitsaspekten (vgl. Kapitel 4.7 Architekturvorgaben zur Informationssicherheit) vertretbar ist. Zu nutzende Standards werden im Anhang „Technische Spezifikationen zur Architekturrichtlinie“ weiter ausgeführt. Die in einem IT-System darüber hinaus verwendeten Standards können von Richtlinien beteiligter Partner und Kunden außerhalb der Bundesverwaltung mitbestimmt sein.
+Die Architekturgrundsätze sind daher frühzeitig zu berücksichtigen (vgl. Kapitel 5 Nutzung von Architekturvorgaben).
+
+Implikationen:
+Standardisierungsstrategien müssen ressortübergreifend (weiter-) entwickelt, beschlossen und umgesetzt werden. Funktionsfähige Steuerungsstrukturen (i. S. eines zentralen Architekturmanagements, z. B. durch ein entsprechendes Architektur-Board) werden eingesetzt, um dies sicherzustellen

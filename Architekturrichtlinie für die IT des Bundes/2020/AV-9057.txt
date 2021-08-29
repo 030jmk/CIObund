@@ -1,0 +1,49 @@
+Bezeichner:
+NVPF-05
+
+Titel:
+Nutzung des Aufbewahrungsdienstes (IT-Lösung Digitales Zwischenarchiv des Bundes)
+
+Verbindlichkeitsgrad:
+SOLL
+
+ID:
+AV-9057
+
+Revision:
+01
+
+Beschreibung:
+Der Aufbewahrungsdienst soll gemäß Architekturvorgabe DAAV-01 genutzt werden. Den Funktionsumfang des Dienstes regelt der entsprechende Dienstesteckbrief der Strategie Dienstekonsolidierung.
+
+Begründung:
+Die einzelnen Behörden des Bundes sollen für die Zwecke der Langzeitspeicherung sowie der Beweiswerterhaltung von Unterlagen gemäß BArchG keine eigenständigen Lösungen mit den dabei einhergehenden organisatorischen, finanziellen und technischen Aufwänden beschaffen und betreiben.
+Gemäß BArchG müssen die Behörden des Bundes ihr Schriftgut dem Bundesarchiv anbieten. Dieses erfolgt derzeit v. a. im Bereich E-Akte über eine Schnittstelle zwischen den Behördensystemen und dem Digitalen Zwischenarchiv des Bundes (DZAB) bzw. zwischen dem DZAB und dem Digitalen Magazin im Bundesarchiv. Das Bundesarchiv kann frühzeitig die Archivwürdigkeit des Schriftgutes bewerten und Skaleneffekte nutzen.
+
+Abhängigkeiten:
+Der Dienst Digitales Zwischenarchiv des Bundes (DZAB)
+ wird Inhalte aus der E-Akte übernehmen (NVPF-01),
+ wird Inhalte aus den De-Mail Diensten übernehmen (NVPF-10)und
+ muss archivwürdige Inhalte an das Digitale Magazin beim Bundesarchiv überführen.
+Das DZAB verwendet standardisierte Schnittstellen auf Basis von WebServices und SOAP V1.1. Der Dienst ist über ein sicheres Verwaltungsnetz erreichbar.
+
+Implikationen:
+Für die Nutzung des Dienstes müssen durch die Behörden organisatorische und technische Maßnahmen zur Selektion der für die Zwischenarchivierung anstehenden Inhalte inklusive deren Metadaten sowie für deren TR-ESOR-konforme33 Datenaufbereitung (XAIP) und Qualitätssicherung erfolgen. In Absprache mit dem Bundesarchiv werden die Datenstrukturen definiert und einzelne Komponenten (Zugriffskomponenten, Konverter, WSDL-Aufruf) bereitgestellt.
+Zur Nutzung von Diensten über ein sicheres Verwaltungsnetz müssen die Behörden einen sicheren Verwaltungsnetzanschluss mit ausreichender Bandbreite einplanen und umsetzen können.
+In Vorbereitung der Nutzung müssen die Informationssicherheits-, die Datenschutzkonzepte und die geheimschutzrechtlichen Vorgaben validiert und ggf. angepasst werden. Ein Zugriff auf das DZAB erfordert eine entsprechende Langzeitspeicher-URL der BA, ein PKI-Zertifikat der BA, um eine sichere Verbindung aufbauen zu können sowie Anpassungen in den Firewalls/DMZ der BA, des Bundesarchivs und der beteiligten Behörden. Gleiches gilt auch für die Zugriffskomponenten.
+Die datenschutzrechtlichen Pflichten des Bundesarchivs und der BA gemäß Art. 28 der EU-DSGVO entbinden die abgebenden Stellen ihrerseits nicht von der Pflicht, den Schutzbedarf ihrer elektronischen Unterlagen selbst zu bestimmen und die datenschutzrechtlichen Vorkehrungen des DZAB selbst zu überprüfen. Gleiches gilt für die geheimschutzrechtlichen Pflichten.
+Das Digitale Zwischenarchiv des Bundes umfasst einen nach der Technischen Richtlinie TR 03-125 (Beweiswerterhaltung kryptographisch signierter Dokumente (TRESOR)) des BSI ausgerichteten zentralen Langzeitspeicher für die rechtssichere Aufbewahrung elektronischer Unterlagen und Services. Die Langzeitspeicherung der Daten erfolgt ausschließlich auf dem Territorium der Bundesrepublik Deutschland
+Das DZAB setzt hinsichtlich der Speicherkomponente auf der Langzeitspeicherlösung des IT-Systemhauses der BA in Nürnberg, dem eArchiv- Service, auf und beinhaltet konkret folgende
+Standardfunktionen:
+ Lesen, Suchen, Schreiben, Versionieren, Ersetzen und Löschen von elektronischen Unterlagen (z. B. Akten, Vorgänge und Dokumente) auf der Basis von Zwischenarchivobjekten (XAIPContainer)
+ Verifikation der XAIP-Container gegen ein vorab definiertes XMLSchema
+ Abruf des Beweiserhalts von Zwischenarchivobjekten in Form eines Prüfprotokolls (Evidence Record)
+ Qualifizierte technische Antworten auf Anfragen an das DZAB
+ Mandantenfähigkeit im Rahmen der datenschutzrechtlichen Anforderungen (einschließlich Rechte- und Rollenkonzept und Zugriffsprotokollierung)
+ Eine optionale Signaturprüfung bei qualifiziert signierten Objekten vor Eingang in das DZAB
+ Anbietung und ggf. Übergabe archivreifer Unterlagen an das Bundesarchiv gemäß Bundesarchivgesetz (BArchG)
+Der Zugriff auf die Funktionen erfolgt über das Dokumentenmanagement, die Vorgangsbearbeitung oder die webbasierte Zugriffs-, Steuerungs- und Bewertungskomponente (Access Service).
+Darüber hinaus wird der Access Service vom Bundesarchiv für die archivfachliche Bewertung aller elektronischen Unterlagen im DZAB auf ihre Archivwürdigkeit hin verwendet. Diese sollen u. a. folgenden Funktionsumfang bereitstellen: Erzeugung und Transfer von Zwischenarchivobjekten (XAIP), Navigation, Recherche, Anzeige, Ändern, Löschen und Bewertung von XAIP auf Akten-/ Aktenplan- und Vorgangsebene, Abruf von Prüfprotokollen sowie Reporting.
+Ferner verfügt das DZAB über die Möglichkeit, ERP-Daten aufzunehmen. Das Bundesarchiv und die BA garantieren die Einhaltung von Datenschutz und Sicherheitsniveau der Schutzbedarfsklasse 3.
+Der Anwendungsbereich des Digitalen Zwischenarchivs des Bundes betrifft alle Systeme und Mitarbeiter der Bundesverwaltung mit Bezug zu Klärung von Beweiswerterhaltung, Aufbewahrung und Archivierung.
+Das Digitale Zwischenarchiv des Bundes ist verfügbar. Eine Weiterentwicklung ist im Rahmen der Gemeinsamen IT des Bundes gemäß IT Rahmenkonzept geplant.

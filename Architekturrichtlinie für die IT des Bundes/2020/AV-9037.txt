@@ -1,0 +1,46 @@
+Bezeichner:
+TNAV-02
+
+Titel:
+Nutzung von Internet Protocol Version 6 (IPv6) als Netzwerkprotokoll
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9037
+
+Revision:
+01
+
+Beschreibung:
+Sämtliche IT-Systeme, Verfahren und Infrastrukturen müssen mit IPv6 - und auch ohne IPv4 - vollständig funktionsfähig sein.
+Dies gilt für Neubeschaffungen, insbesondere im Rahmen einer Konsolidierung. Bestehende Systeme müssen im Rahmen der Systempflege/ Wartung IPv6-fähig gemacht werden.
+Folgende Richtlinien sind einzuhalten:
+ „IPv6 Referenzhandbuch der öffentlichen Verwaltung“ (Organisations-Handbuch; V 1.0 v. März 2011, Beschluss ITPlanungsrat)
+ „IPv6 Routingkonzept der öffentlichen Verwaltung“ (V 1.0 v. August 2016, Beschluss IT-Planungsrat)
+ „DNS Konzept für die öffentliche Verwaltung“ (in Erarbeitung, BMI CI5)
+Zu beachten (als Empfehlungen) sind weiterhin:
+ „IPv6 Profile für die öffentliche Verwaltung“ (Beschaffungsgrundlage; V 1.1 v. Dezember 2013, BVA)
+ „IPv6 Migrationsleitfaden für die öffentliche Verwaltung“ (V 1.1 v. Dezember 2013, BVA)
+Für den Einsatz und die Einführung von IPv6 in der öffentlichen Verwaltung stehen (BSI-) abgestimmte Leitfäden, Beschaffungsrichtlinien sowie Einsatzkonzepte zur freien Verfügung.
+
+Begründung:
+Die Nutzung der Protokollversion 4 (IPv4) läuft aus und wird weltweit durch die Version 6 (IPv6) abgelöst, da IPv4 langfristig mangels verfügbarem Adressraum keine Zukunftsfähigkeit bietet.
+IPv4- Adressen, die aus dem Internet angesprochen werden können, sind für die öffentliche Hand nur noch zu ständig steigenden Preisen und in kleinen Mengen verfügbar. Die Unterstützung von IPv4 in Netzwerken sowie herstellerseitig in IT-Komponenten und zugehörigen Serviceverträgen schwindet.
+
+Abhängigkeiten:
+Bei der Einführung von IPv6 muss beispielsweise berücksichtigt werden, ob
+ der Netzbereich und seine Anwendung weitgehend autark sind und somit auf IPv4 vollständig verzichtet werden kann (IPv6 only). Beispiele
+- VoIP innerhalb einer Behörde
+- MPLS WAN Netz zwischen Behörden mit IPsecTunnelverschlüsselung
+ für den technischen Übergang der parallele Einsatz von IPv6 und IPv4 notwendig ist.
+- Normalfall in der öffentlichen Verwaltung
+- Technologiefestlegung IT-PLR: Dual-Stack
+ von IPv6 als Standardprotokoll und IPv4 als in Teilen notwendiger Lösung für den Bestandsschutz ausgegangen werden muss, bezogen auf:
+- IT-Konzepten, inkl. Sicherheitskonzepten
+- IT-Hardwarekomponenten
+- IT-Softwarekomponenten (insbesondere Einzelentwicklungen – Fachverfahren - für Behörden)
+
+Implikationen:
+Die Implikationen der flächendeckenden Einführung von IPv6 sind aufgrund der vielfachen Abhängigkeiten sehr groß und werden dramatisch größer, je länger dessen Einführung hinausgezögert wird. Neben dem finanziellen Aufwand sind Ressourcenengpässe bei Dienstleistern und Schulung zu erwarten, sodass dann eine kurzfristige Umsetzung bei akutem Bedarf nicht realistisch ist.

@@ -1,0 +1,26 @@
+Bezeichner:
+ÜBAV-06
+
+Titel:
+Sichere Systemgrundkonfiguration („Security-by-Default“)
+
+Verbindlichkeitsgrad:
+MUSS
+
+ID:
+AV-9005
+
+Revision:
+01
+
+Beschreibung:
+Alle relevanten Sicherheitseinstellungen müssen bereits in der Grundkonfiguration des Dienstes aktiviert sein (Security-by-Default).
+
+Begründung:
+Nur wenn bereits in der Grundkonfiguration eines Dienstes relevante Sicherheitsfestlegungen getroffen werden (z. B. DENY ALL Regeln), kann sichergestellt werden, dass unautorisierte Zugriffe (z. B. bei Nicht-Verfügbarkeit von Sicherheitsdiensten) verhindert werden.
+
+Abhängigkeiten:
+Abhängigkeiten bestehen zu allen Architekturvorgaben, Maßnahmen und Vorhaben, welche diese allgemeine Vorgabe einhalten müssen. Weiterhin wird diese Vorgabe durch ÜBAV-09 konkretisiert.
+
+Implikationen:
+Die allgemeinen Vorgaben sind bei Entwurf, Entwicklung und Bereitstellung von Diensten zu berücksichtigen.
